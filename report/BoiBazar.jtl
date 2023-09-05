@@ -1,0 +1,791 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1693905971825,11109,https://www.boibazar.com/homepage-more/0,200,OK,Thread Group 1-1,text,true,,319509,2598,5,5,https://www.boibazar.com/homepage-more/0,10392,0,1603
+1693905971825,10692,https://www.boibazar.com/homepage-more/0-0,200,OK,Thread Group 1-1,text,true,,303276,458,5,5,https://www.boibazar.com/homepage-more/0,10392,0,1603
+1693905982876,58,https://www.boibazar.com/homepage-more/0-1,200,OK,Thread Group 1-1,bin,true,,11353,1068,5,5,https://www.boibazar.com/asset/images/read-more.png,58,0,45
+1693905982876,15,https://www.boibazar.com/homepage-more/0-2,200,OK,Thread Group 1-1,bin,true,,4880,1072,5,5,https://www.boibazar.com/asset/images/book-no-photo.jpg,15,0,0
+1693905977694,8075,https://www.boibazar.com/homepage-more/0,200,OK,Thread Group 1-4,text,true,,319509,2598,5,5,https://www.boibazar.com/homepage-more/0,7788,0,91
+1693905977694,7966,https://www.boibazar.com/homepage-more/0-0,200,OK,Thread Group 1-4,text,true,,303276,458,5,5,https://www.boibazar.com/homepage-more/0,7788,0,91
+1693905985714,55,https://www.boibazar.com/homepage-more/0-1,200,OK,Thread Group 1-4,bin,true,,11353,1068,5,5,https://www.boibazar.com/asset/images/read-more.png,55,0,45
+1693905985714,11,https://www.boibazar.com/homepage-more/0-2,200,OK,Thread Group 1-4,bin,true,,4880,1072,5,5,https://www.boibazar.com/asset/images/book-no-photo.jpg,11,0,0
+1693905973702,14334,https://www.boibazar.com/homepage-more/0,200,OK,Thread Group 1-2,text,true,,319503,2586,5,5,https://www.boibazar.com/homepage-more/0,13935,0,93
+1693905973702,14258,https://www.boibazar.com/homepage-more/0-0,200,OK,Thread Group 1-2,text,true,,303270,458,5,5,https://www.boibazar.com/homepage-more/0,13935,0,93
+1693905987983,20,https://www.boibazar.com/homepage-more/0-1,200,OK,Thread Group 1-2,bin,true,,11352,1062,5,5,https://www.boibazar.com/asset/images/read-more.png,20,0,0
+1693905987984,52,https://www.boibazar.com/homepage-more/0-2,200,OK,Thread Group 1-2,bin,true,,4881,1066,5,5,https://www.boibazar.com/asset/images/book-no-photo.jpg,52,0,45
+1693905975682,13273,https://www.boibazar.com/homepage-more/0,200,OK,Thread Group 1-3,text,true,,319513,2606,5,5,https://www.boibazar.com/homepage-more/0,13015,0,77
+1693905975682,13195,https://www.boibazar.com/homepage-more/0-0,200,OK,Thread Group 1-3,text,true,,303280,458,5,5,https://www.boibazar.com/homepage-more/0,13015,0,77
+1693905988898,12,https://www.boibazar.com/homepage-more/0-1,200,OK,Thread Group 1-3,bin,true,,11352,1072,5,5,https://www.boibazar.com/asset/images/read-more.png,11,0,0
+1693905988898,57,https://www.boibazar.com/homepage-more/0-2,200,OK,Thread Group 1-3,bin,true,,4881,1076,5,5,https://www.boibazar.com/asset/images/book-no-photo.jpg,57,0,49
+1693905979672,10521,https://www.boibazar.com/homepage-more/0,200,OK,Thread Group 1-5,text,true,,319503,2586,5,5,https://www.boibazar.com/homepage-more/0,10243,0,75
+1693905979672,10439,https://www.boibazar.com/homepage-more/0-0,200,OK,Thread Group 1-5,text,true,,303270,458,5,5,https://www.boibazar.com/homepage-more/0,10243,0,75
+1693905990130,63,https://www.boibazar.com/homepage-more/0-1,200,OK,Thread Group 1-5,bin,true,,11353,1062,5,5,https://www.boibazar.com/asset/images/read-more.png,63,0,48
+1693905990130,14,https://www.boibazar.com/homepage-more/0-2,200,OK,Thread Group 1-5,bin,true,,4880,1066,5,5,https://www.boibazar.com/asset/images/book-no-photo.jpg,14,0,0
+1693905982943,7733,https://www.boibazar.com/homepage-more/5,200,OK,Thread Group 1-1,text,true,,145096,3367,5,5,https://www.boibazar.com/homepage-more/5,7491,0,0
+1693905982943,7542,https://www.boibazar.com/homepage-more/5-0,200,OK,Thread Group 1-1,text,true,,144491,1057,5,5,https://www.boibazar.com/homepage-more/5,7491,0,0
+1693905990507,20,https://www.boibazar.com/homepage-more/5-1,304,Not Modified,Thread Group 1-1,,true,,302,1153,5,5,https://www.boibazar.com/asset/images/read-more.png,0,0,0
+1693905990512,164,https://www.boibazar.com/homepage-more/5-2,304,Not Modified,Thread Group 1-1,,true,,303,1157,5,5,https://www.boibazar.com/asset/images/book-no-photo.jpg,0,0,151
+1693905988957,5602,https://www.boibazar.com/homepage-more/5,200,OK,Thread Group 1-3,text,true,,145096,3371,5,5,https://www.boibazar.com/homepage-more/5,5238,0,0
+1693905988957,5417,https://www.boibazar.com/homepage-more/5-0,200,OK,Thread Group 1-3,text,true,,144491,1061,5,5,https://www.boibazar.com/homepage-more/5,5238,0,0
+1693905994414,38,https://www.boibazar.com/homepage-more/5-1,304,Not Modified,Thread Group 1-3,,true,,302,1153,5,5,https://www.boibazar.com/asset/images/read-more.png,0,0,0
+1693905994415,144,https://www.boibazar.com/homepage-more/5-2,304,Not Modified,Thread Group 1-3,,true,,303,1157,5,5,https://www.boibazar.com/asset/images/book-no-photo.jpg,0,0,118
+1693905990684,4717,https://www.boibazar.com/book/misir-ali-unsolved,200,"Embedded resource download error:https://www.googletagmanager.com/gtag/js?id=UA-116540278-1 code:Non HTTP response code: java.net.UnknownHostException message:Non HTTP response message: No such host is known (www.googletagmanager.com), https://www.googletagmanager.com/gtag/js?id=G-BMW5GE0L3F code:Non HTTP response code: java.net.UnknownHostException message:Non HTTP response message: www.googletagmanager.com, ",Thread Group 1-1,text,false,,2118419,75212,5,5,https://www.boibazar.com/book/misir-ali-unsolved,1399,0,0
+1693905990684,1470,https://www.boibazar.com/book/misir-ali-unsolved-0,200,OK,Thread Group 1-1,text,true,,230208,1082,5,5,https://www.boibazar.com/book/misir-ali-unsolved,1399,0,0
+1693905992257,13,https://www.boibazar.com/book/misir-ali-unsolved-1,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: No such host is known (www.googletagmanager.com),Thread Group 1-1,text,false,,2849,0,5,5,https://www.googletagmanager.com/gtag/js?id=UA-116540278-1,0,0,13
+1693905992259,12,https://www.boibazar.com/book/misir-ali-unsolved-2,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: www.googletagmanager.com,Thread Group 1-1,text,false,,2646,0,5,5,https://www.googletagmanager.com/gtag/js?id=G-BMW5GE0L3F,0,0,11
+1693905992268,109,https://www.boibazar.com/book/misir-ali-unsolved-3,200,OK,Thread Group 1-1,bin,true,,22954,1098,5,5,https://www.boibazar.com/asset/icon/android-icon-192x192.png,108,0,76
+1693905992266,79,https://www.boibazar.com/book/misir-ali-unsolved-4,200,OK,Thread Group 1-1,bin,true,,1779,1091,5,5,https://www.boibazar.com/asset/icon/favicon-32x32.png,79,0,63
+1693905992266,16,https://www.boibazar.com/book/misir-ali-unsolved-5,200,OK,Thread Group 1-1,bin,true,,5069,1091,5,5,https://www.boibazar.com/asset/icon/favicon-96x96.png,16,0,0
+1693905992264,7,https://www.boibazar.com/book/misir-ali-unsolved-6,200,OK,Thread Group 1-1,bin,true,,1015,1091,5,5,https://www.boibazar.com/asset/icon/favicon-16x16.png,6,0,0
+1693905992273,1128,https://www.boibazar.com/book/misir-ali-unsolved-7,200,OK,Thread Group 1-1,text,true,,28400,512,5,5,https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css,794,0,775
+1693905992279,11,https://www.boibazar.com/book/misir-ali-unsolved-8,200,OK,Thread Group 1-1,text,true,,10504,1090,5,5,https://www.boibazar.com/asset/new/js/fingerprint.js,11,0,0
+1693905992287,73,https://www.boibazar.com/book/misir-ali-unsolved-9,200,OK,Thread Group 1-1,text,true,,87363,1087,5,5,https://www.boibazar.com/asset/js/jquery-3.3.1.js,29,0,0
+1693905992288,441,https://www.boibazar.com/book/misir-ali-unsolved-10,200,OK,Thread Group 1-1,text,true,,122182,506,5,5,https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css,120,0,99
+1693905992291,1692,https://www.boibazar.com/book/misir-ali-unsolved-11,200,OK,Thread Group 1-1,text,true,,9799,1591,5,5,https://www.boibazar.com/asset/new/css/style3.css,20,0,0
+1693905992353,898,https://www.boibazar.com/book/misir-ali-unsolved-12,200,OK,Thread Group 1-1,text,true,,43808,544,5,5,https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.5/jquery.mCustomScrollbar.min.css,624,0,603
+1693905992365,78,https://www.boibazar.com/book/misir-ali-unsolved-13,200,OK,Thread Group 1-1,text,true,,31905,512,5,5,https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css,65,0,38
+1693905992387,18,https://www.boibazar.com/book/misir-ali-unsolved-14,200,OK,Thread Group 1-1,text,true,,4640,1096,5,5,https://www.boibazar.com/asset/new/css/navbar-megamenu.css,18,0,0
+1693905993289,53,https://www.boibazar.com/book/misir-ali-unsolved-15,200,OK,Thread Group 1-1,text,true,,5139,1086,5,5,https://www.boibazar.com/asset/new/css/style.css,53,0,0
+1693905993381,53,https://www.boibazar.com/book/misir-ali-unsolved-16,200,OK,Thread Group 1-1,text,true,,526,1106,5,5,https://www.boibazar.com/asset/new/pslider/product-slider-custom.css,53,0,38
+1693905993442,38,https://www.boibazar.com/book/misir-ali-unsolved-17,200,OK,Thread Group 1-1,text,true,,2121,1091,5,5,https://www.boibazar.com/asset/css/jquery.eatoast.css,38,0,0
+1693905993441,43,https://www.boibazar.com/book/misir-ali-unsolved-18,200,OK,Thread Group 1-1,text,true,,31951,1089,5,5,https://www.boibazar.com/asset/sass/home/global.css,41,0,0
+1693905993470,15,https://www.boibazar.com/book/misir-ali-unsolved-19,200,OK,Thread Group 1-1,text,true,,2269,1085,5,5,https://www.boibazar.com/asset/new/css/head.css,15,0,0
+1693905993473,23,https://www.boibazar.com/book/misir-ali-unsolved-20,200,OK,Thread Group 1-1,text,true,,7995,1098,5,5,https://www.boibazar.com/asset/sass/home/product-details.css,23,0,0
+1693905993521,19,https://www.boibazar.com/book/misir-ali-unsolved-21,200,OK,Thread Group 1-1,bin,true,,910,1090,5,5,https://www.boibazar.com/asset/images/Home-48X48.png,18,0,0
+1693905993528,18,https://www.boibazar.com/book/misir-ali-unsolved-22,200,OK,Thread Group 1-1,bin,true,,7406,1097,5,5,https://www.boibazar.com/asset/images/Track-Order-48X48.png,18,0,0
+1693905993530,10,https://www.boibazar.com/book/misir-ali-unsolved-23,200,OK,Thread Group 1-1,bin,true,,835,1096,5,5,https://www.boibazar.com/asset/images/Categories-48X48.png,10,0,0
+1693905993541,10,https://www.boibazar.com/book/misir-ali-unsolved-24,200,OK,Thread Group 1-1,bin,true,,788,1093,5,5,https://www.boibazar.com/asset/images/Authors-48X48.png,10,0,0
+1693905993542,11,https://www.boibazar.com/book/misir-ali-unsolved-25,200,OK,Thread Group 1-1,bin,true,,870,1096,5,5,https://www.boibazar.com/asset/images/Publishers-48X48.png,11,0,0
+1693905993547,8,https://www.boibazar.com/book/misir-ali-unsolved-26,200,OK,Thread Group 1-1,bin,true,,1207,1090,5,5,https://www.boibazar.com/asset/images/Blog-48X48.png,8,0,0
+1693905993552,17,https://www.boibazar.com/book/misir-ali-unsolved-27,200,OK,Thread Group 1-1,bin,true,,1116,1094,5,5,https://www.boibazar.com/asset/images/About-us-48X48.png,17,0,0
+1693905993554,14,https://www.boibazar.com/book/misir-ali-unsolved-28,200,OK,Thread Group 1-1,bin,true,,1060,1096,5,5,https://www.boibazar.com/asset/images/Contact-us-48X48.png,14,0,0
+1693905993556,12,https://www.boibazar.com/book/misir-ali-unsolved-29,200,OK,Thread Group 1-1,text,true,,8797,1087,5,5,https://www.boibazar.com/asset/new/css/header.css,12,0,0
+1693905993589,43,https://www.boibazar.com/book/misir-ali-unsolved-30,200,OK,Thread Group 1-1,bin,true,,7871,1087,5,5,https://www.boibazar.com/asset/images/logo_bn.png,39,0,0
+1693905993626,20,https://www.boibazar.com/book/misir-ali-unsolved-31,200,OK,Thread Group 1-1,bin,true,,8594,1093,5,5,https://www.boibazar.com/asset/images/sign-in-48X48.png,20,0,0
+1693905993631,27,https://www.boibazar.com/book/misir-ali-unsolved-32,200,OK,Thread Group 1-1,bin,true,,28560,1093,5,5,https://www.boibazar.com/asset/images/search_loader.gif,16,0,0
+1693905993634,24,https://www.boibazar.com/book/misir-ali-unsolved-33,200,OK,Thread Group 1-1,bin,true,,1353,1093,5,5,https://www.boibazar.com/asset/images/search_button.png,24,0,0
+1693905993655,16,https://www.boibazar.com/book/misir-ali-unsolved-34,200,OK,Thread Group 1-1,bin,true,,1157,1091,5,5,https://www.boibazar.com/asset/images/cartIconWeb.png,16,0,0
+1693905993652,58,https://www.boibazar.com/book/misir-ali-unsolved-35,200,OK,Thread Group 1-1,bin,true,,27398,1086,5,5,https://www.boibazar.com/asset/images/loader.gif,20,0,0
+1693905993661,126,https://www.boibazar.com/book/misir-ali-unsolved-36,200,OK,Thread Group 1-1,bin,true,,94830,1095,5,5,https://www.boibazar.com/asset/images/popup_20210318c.png,47,0,0
+1693905993660,79,https://www.boibazar.com/book/misir-ali-unsolved-37,200,OK,Thread Group 1-1,bin,true,,75099,1095,5,5,https://www.boibazar.com/asset/images/popup_20210318m.png,47,0,0
+1693905993672,38,https://www.boibazar.com/book/misir-ali-unsolved-38,304,Not Modified,Thread Group 1-1,,true,,302,1130,5,5,https://www.boibazar.com/asset/images/book-no-photo.jpg,0,0,0
+1693905993713,24,https://www.boibazar.com/book/misir-ali-unsolved-39,304,Not Modified,Thread Group 1-1,,true,,302,1126,5,5,https://www.boibazar.com/asset/images/read-more.png,0,0,0
+1693905993713,25,https://www.boibazar.com/book/misir-ali-unsolved-40,200,OK,Thread Group 1-1,bin,true,,6240,1091,5,5,https://www.boibazar.com/asset/images/add-to-cart.png,25,0,0
+1693905993740,905,https://www.boibazar.com/book/misir-ali-unsolved-41,200,OK,Thread Group 1-1,bin,true,,198064,518,5,5,https://d1jpltibqvso3j.cloudfront.net/images/author/39000/38904/250X360/38904.png,382,0,280
+1693905993740,598,https://www.boibazar.com/book/misir-ali-unsolved-42,200,OK,Thread Group 1-1,text,true,,31940,519,5,5,https://d1jpltibqvso3j.cloudfront.net/images/product/23000/22980/250X360/22980.png,398,0,287
+1693905993740,33,https://www.boibazar.com/book/misir-ali-unsolved-43,200,OK,Thread Group 1-1,bin,true,,1949,1089,5,5,https://www.boibazar.com/asset/images/cart-icon.png,33,0,0
+1693905993774,65,https://www.boibazar.com/book/misir-ali-unsolved-44,200,OK,Thread Group 1-1,bin,true,,37850,1092,5,5,https://www.boibazar.com/asset/images/payment-icon.jpg,54,0,0
+1693905993788,73,https://www.boibazar.com/book/misir-ali-unsolved-45,200,OK,Thread Group 1-1,bin,true,,23386,1097,5,5,https://www.boibazar.com/asset/images/loading_spinner_2.gif,50,0,0
+1693905993802,1599,https://www.boibazar.com/book/misir-ali-unsolved-46,204,No Content,Thread Group 1-1,,true,,80,537,5,5,https://seal.godaddy.com/getSeal?sealID=aswDU2elfOSa6U3nivsxeRKUzkqm2YnsXyW4aUrpRC0vsq13nZn2PQhLo4EH,0,0,1338
+1693905993840,22,https://www.boibazar.com/book/misir-ali-unsolved-47,200,OK,Thread Group 1-1,bin,true,,927,1099,5,5,https://www.boibazar.com/asset/images/homeAssets/cartIcon.png,22,0,0
+1693905993870,10,https://www.boibazar.com/book/misir-ali-unsolved-48,200,OK,Thread Group 1-1,bin,true,,665,1099,5,5,https://www.boibazar.com/asset/images/homeAssets/helpInfo.png,10,0,0
+1693905993871,117,https://www.boibazar.com/book/misir-ali-unsolved-49,200,OK,Thread Group 1-1,text,true,,93543,1092,5,5,https://www.boibazar.com/asset/js/jquery-1.10.2.min.js,24,0,0
+1693905993881,257,https://www.boibazar.com/book/misir-ali-unsolved-50,200,OK,Thread Group 1-1,text,true,,240865,1088,5,5,https://www.boibazar.com/asset/js/jquery-ui.min.js,20,0,0
+1693905994027,171,https://www.boibazar.com/book/misir-ali-unsolved-51,200,OK,Thread Group 1-1,text,true,,97602,1085,5,5,https://www.boibazar.com/asset/js/jquery.min.js,35,0,0
+1693905994033,108,https://www.boibazar.com/book/misir-ali-unsolved-52,200,OK,Thread Group 1-1,text,true,,28263,1088,5,5,https://www.boibazar.com/asset/js/bootstrap.min.js,106,0,0
+1693905994139,67,https://www.boibazar.com/book/misir-ali-unsolved-53,200,OK,Thread Group 1-1,text,true,,45915,1109,5,5,https://www.boibazar.com/asset/js/jquery.mCustomScrollbar.concat.min.js,44,0,0
+1693905994144,51,https://www.boibazar.com/book/misir-ali-unsolved-54,200,OK,Thread Group 1-1,text,true,,1713,1093,5,5,https://www.boibazar.com/asset/new/js/mobile-sidebar.js,51,0,0
+1693905994196,400,https://www.boibazar.com/book/misir-ali-unsolved-55,200,OK,Thread Group 1-1,text,true,,25377,1598,5,5,https://www.boibazar.com/asset/new/pslider/css/wpcs-styles.css,64,0,0
+1693905994198,75,https://www.boibazar.com/book/misir-ali-unsolved-56,200,OK,Thread Group 1-1,text,true,,4619,1101,5,5,https://www.boibazar.com/asset/new/pslider/css/owl.carousel.css,75,0,0
+1693905994207,66,https://www.boibazar.com/book/misir-ali-unsolved-57,200,OK,Thread Group 1-1,text,true,,1773,1106,5,5,https://www.boibazar.com/asset/new/pslider/css/owl.theme.default.css,66,0,0
+1693905994284,45,https://www.boibazar.com/book/misir-ali-unsolved-58,200,OK,Thread Group 1-1,text,true,,6580,1090,5,5,https://www.boibazar.com/asset/AjaxAssetJs/config.js,45,0,0
+1693905994296,38,https://www.boibazar.com/book/misir-ali-unsolved-59,200,OK,Thread Group 1-1,text,true,,5536,1089,5,5,https://www.boibazar.com/asset/js/jquery.eatoast.js,38,0,0
+1693905994332,48,https://www.boibazar.com/book/misir-ali-unsolved-60,200,OK,Thread Group 1-1,text,true,,8841,1090,5,5,https://www.boibazar.com/asset/AjaxAssetJs/signup.js,48,0,0
+1693905994335,47,https://www.boibazar.com/book/misir-ali-unsolved-61,200,OK,Thread Group 1-1,text,true,,9496,1090,5,5,https://www.boibazar.com/asset/AjaxAssetJs/signin.js,46,0,0
+1693905994340,112,https://www.boibazar.com/book/misir-ali-unsolved-62,200,OK,Thread Group 1-1,text,true,,38043,1088,5,5,https://www.boibazar.com/asset/AjaxAssetJs/cart.js,56,0,0
+1693905994382,43,https://www.boibazar.com/book/misir-ali-unsolved-63,200,OK,Thread Group 1-1,text,true,,15192,1096,5,5,https://www.boibazar.com/asset/AjaxAssetJs/commonScript.js,43,0,0
+1693905994382,53,https://www.boibazar.com/book/misir-ali-unsolved-64,200,OK,Thread Group 1-1,text,true,,25379,1090,5,5,https://www.boibazar.com/asset/AjaxAssetJs/search.js,51,0,0
+1693905994427,53,https://www.boibazar.com/book/misir-ali-unsolved-65,200,OK,Thread Group 1-1,text,true,,5311,1091,5,5,https://www.boibazar.com/asset/AjaxAssetJs/pageing.js,53,0,0
+1693905994436,60,https://www.boibazar.com/book/misir-ali-unsolved-66,200,OK,Thread Group 1-1,text,true,,1358,1095,5,5,https://www.boibazar.com/asset/AjaxAssetJs/searchPagin.js,60,0,0
+1693905994454,734,https://www.boibazar.com/book/misir-ali-unsolved-67,200,OK,Thread Group 1-1,text,true,,94215,510,5,5,https://scripts.pay.bka.sh/versions/1.2.0-beta/checkout/bKash-checkout.js,466,0,323
+1693905994481,68,https://www.boibazar.com/book/misir-ali-unsolved-68,200,OK,Thread Group 1-1,text,true,,36560,1092,5,5,https://www.boibazar.com/asset/AjaxAssetJs/prod_det.js,25,0,0
+1693905994501,54,https://www.boibazar.com/book/misir-ali-unsolved-69,200,OK,Thread Group 1-1,text,true,,50678,1102,5,5,https://www.boibazar.com/asset/new/js/jssor.slider-27.4.0.min.js,19,0,0
+1693905994549,15,https://www.boibazar.com/book/misir-ali-unsolved-70,200,OK,Thread Group 1-1,text,true,,2725,1096,5,5,https://www.boibazar.com/asset/new/js/jssor-main-slider.js,15,0,0
+1693905994556,24,https://www.boibazar.com/book/misir-ali-unsolved-71,200,OK,Thread Group 1-1,text,true,,43207,1103,5,5,https://www.boibazar.com/asset/new/pslider/js/owl.carousel.min.js,20,0,0
+1693905994565,24,https://www.boibazar.com/book/misir-ali-unsolved-72,200,OK,Thread Group 1-1,text,true,,604,1103,5,5,https://www.boibazar.com/asset/new/pslider/js/custom.js?ver=1.3.3,24,0,0
+1693905994581,23,https://www.boibazar.com/book/misir-ali-unsolved-73,200,OK,Thread Group 1-1,text,true,,10346,1112,5,5,https://www.boibazar.com/asset/new/pslider/product-slider-configuration.js,23,0,0
+1693905995436,121,https://m.boibazar.com/api/cart/,204,No Content,Thread Group 1-1,,true,,598,382,5,5,https://m.boibazar.com/api/cart/,0,0,113
+1693905988038,9889,https://www.boibazar.com/homepage-more/5,200,OK,Thread Group 1-2,text,true,,145094,3357,5,5,https://www.boibazar.com/homepage-more/5,9747,0,0
+1693905988038,9839,https://www.boibazar.com/homepage-more/5-0,200,OK,Thread Group 1-2,text,true,,144489,1051,5,5,https://www.boibazar.com/homepage-more/5,9747,0,0
+1693905997887,40,https://www.boibazar.com/homepage-more/5-1,304,Not Modified,Thread Group 1-2,,true,,303,1151,5,5,https://www.boibazar.com/asset/images/read-more.png,0,0,34
+1693905997887,9,https://www.boibazar.com/homepage-more/5-2,304,Not Modified,Thread Group 1-2,,true,,302,1155,5,5,https://www.boibazar.com/asset/images/book-no-photo.jpg,0,0,0
+1693905985775,13082,https://www.boibazar.com/homepage-more/5,200,OK,Thread Group 1-4,text,true,,145100,3375,5,5,https://www.boibazar.com/homepage-more/5,12915,0,0
+1693905985775,13018,https://www.boibazar.com/homepage-more/5-0,200,OK,Thread Group 1-4,text,true,,144495,1057,5,5,https://www.boibazar.com/homepage-more/5,12915,0,0
+1693905998809,13,https://www.boibazar.com/homepage-more/5-1,304,Not Modified,Thread Group 1-4,,true,,302,1157,5,5,https://www.boibazar.com/asset/images/read-more.png,0,0,0
+1693905998812,45,https://www.boibazar.com/homepage-more/5-2,304,Not Modified,Thread Group 1-4,,true,,303,1161,5,5,https://www.boibazar.com/asset/images/book-no-photo.jpg,0,0,38
+1693905997930,6438,https://www.boibazar.com/book/misir-ali-unsolved,200,"Embedded resource download error:https://www.googletagmanager.com/gtag/js?id=UA-116540278-1 code:Non HTTP response code: java.net.UnknownHostException message:Non HTTP response message: www.googletagmanager.com, https://www.googletagmanager.com/gtag/js?id=G-BMW5GE0L3F code:Non HTTP response code: java.net.UnknownHostException message:Non HTTP response message: www.googletagmanager.com, ",Thread Group 1-2,text,false,,2118052,75336,5,5,https://www.boibazar.com/book/misir-ali-unsolved,4146,0,0
+1693905997930,4229,https://www.boibazar.com/book/misir-ali-unsolved-0,200,OK,Thread Group 1-2,text,true,,230210,1080,5,5,https://www.boibazar.com/book/misir-ali-unsolved,4146,0,0
+1693906002205,1,https://www.boibazar.com/book/misir-ali-unsolved-1,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: www.googletagmanager.com,Thread Group 1-2,text,false,,2563,0,5,5,https://www.googletagmanager.com/gtag/js?id=UA-116540278-1,0,0,1
+1693906002205,4,https://www.boibazar.com/book/misir-ali-unsolved-2,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: www.googletagmanager.com,Thread Group 1-2,text,false,,2563,0,5,5,https://www.googletagmanager.com/gtag/js?id=G-BMW5GE0L3F,0,0,4
+1693906002206,29,https://www.boibazar.com/book/misir-ali-unsolved-3,200,OK,Thread Group 1-2,bin,true,,22953,1100,5,5,https://www.boibazar.com/asset/icon/android-icon-192x192.png,28,0,0
+1693906002207,9,https://www.boibazar.com/book/misir-ali-unsolved-4,200,OK,Thread Group 1-2,bin,true,,1778,1093,5,5,https://www.boibazar.com/asset/icon/favicon-32x32.png,9,0,0
+1693906002208,78,https://www.boibazar.com/book/misir-ali-unsolved-5,200,OK,Thread Group 1-2,bin,true,,5070,1093,5,5,https://www.boibazar.com/asset/icon/favicon-96x96.png,78,0,59
+1693906002209,96,https://www.boibazar.com/book/misir-ali-unsolved-6,200,OK,Thread Group 1-2,bin,true,,1016,1093,5,5,https://www.boibazar.com/asset/icon/favicon-16x16.png,96,0,76
+1693906002211,366,https://www.boibazar.com/book/misir-ali-unsolved-7,200,OK,Thread Group 1-2,text,true,,28400,512,5,5,https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css,76,0,54
+1693906002213,140,https://www.boibazar.com/book/misir-ali-unsolved-8,200,OK,Thread Group 1-2,text,true,,10505,1092,5,5,https://www.boibazar.com/asset/new/js/fingerprint.js,140,0,72
+1693906002217,189,https://www.boibazar.com/book/misir-ali-unsolved-9,200,OK,Thread Group 1-2,text,true,,87364,1089,5,5,https://www.boibazar.com/asset/js/jquery-3.3.1.js,137,0,70
+1693906002238,499,https://www.boibazar.com/book/misir-ali-unsolved-10,200,OK,Thread Group 1-2,text,true,,122182,506,5,5,https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css,69,0,51
+1693906002292,607,https://www.boibazar.com/book/misir-ali-unsolved-11,200,OK,Thread Group 1-2,text,true,,9799,1593,5,5,https://www.boibazar.com/asset/new/css/style3.css,14,0,0
+1693906002307,390,https://www.boibazar.com/book/misir-ali-unsolved-12,200,OK,Thread Group 1-2,text,true,,43804,544,5,5,https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.5/jquery.mCustomScrollbar.min.css,286,0,264
+1693906002356,1531,https://www.boibazar.com/book/misir-ali-unsolved-13,200,OK,Thread Group 1-2,text,true,,31905,512,5,5,https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css,1168,0,1088
+1693906002408,10,https://www.boibazar.com/book/misir-ali-unsolved-14,200,OK,Thread Group 1-2,text,true,,4640,1098,5,5,https://www.boibazar.com/asset/new/css/navbar-megamenu.css,10,0,0
+1693906002420,128,https://www.boibazar.com/book/misir-ali-unsolved-15,200,OK,Thread Group 1-2,text,true,,5139,1088,5,5,https://www.boibazar.com/asset/new/css/style.css,127,0,0
+1693906002551,25,https://www.boibazar.com/book/misir-ali-unsolved-16,200,OK,Thread Group 1-2,text,true,,525,1108,5,5,https://www.boibazar.com/asset/new/pslider/product-slider-custom.css,25,0,0
+1693906002581,16,https://www.boibazar.com/book/misir-ali-unsolved-17,200,OK,Thread Group 1-2,text,true,,2121,1093,5,5,https://www.boibazar.com/asset/css/jquery.eatoast.css,15,0,0
+1693906002580,21,https://www.boibazar.com/book/misir-ali-unsolved-18,200,OK,Thread Group 1-2,text,true,,31951,1091,5,5,https://www.boibazar.com/asset/sass/home/global.css,15,0,0
+1693906002599,7,https://www.boibazar.com/book/misir-ali-unsolved-19,200,OK,Thread Group 1-2,text,true,,2269,1087,5,5,https://www.boibazar.com/asset/new/css/head.css,7,0,0
+1693906002603,8,https://www.boibazar.com/book/misir-ali-unsolved-20,200,OK,Thread Group 1-2,text,true,,7995,1100,5,5,https://www.boibazar.com/asset/sass/home/product-details.css,8,0,0
+1693906002606,34,https://www.boibazar.com/book/misir-ali-unsolved-21,200,OK,Thread Group 1-2,bin,true,,910,1092,5,5,https://www.boibazar.com/asset/images/Home-48X48.png,34,0,0
+1693906002612,28,https://www.boibazar.com/book/misir-ali-unsolved-22,200,OK,Thread Group 1-2,bin,true,,7406,1099,5,5,https://www.boibazar.com/asset/images/Track-Order-48X48.png,28,0,0
+1693906002640,12,https://www.boibazar.com/book/misir-ali-unsolved-23,200,OK,Thread Group 1-2,bin,true,,835,1098,5,5,https://www.boibazar.com/asset/images/Categories-48X48.png,12,0,0
+1693906002640,12,https://www.boibazar.com/book/misir-ali-unsolved-24,200,OK,Thread Group 1-2,bin,true,,788,1095,5,5,https://www.boibazar.com/asset/images/Authors-48X48.png,12,0,0
+1693906002653,11,https://www.boibazar.com/book/misir-ali-unsolved-25,200,OK,Thread Group 1-2,bin,true,,870,1098,5,5,https://www.boibazar.com/asset/images/Publishers-48X48.png,10,0,0
+1693906002653,10,https://www.boibazar.com/book/misir-ali-unsolved-26,200,OK,Thread Group 1-2,bin,true,,1207,1092,5,5,https://www.boibazar.com/asset/images/Blog-48X48.png,10,0,0
+1693906002665,11,https://www.boibazar.com/book/misir-ali-unsolved-27,200,OK,Thread Group 1-2,bin,true,,1116,1096,5,5,https://www.boibazar.com/asset/images/About-us-48X48.png,11,0,0
+1693906002665,9,https://www.boibazar.com/book/misir-ali-unsolved-28,200,OK,Thread Group 1-2,bin,true,,1060,1098,5,5,https://www.boibazar.com/asset/images/Contact-us-48X48.png,9,0,0
+1693906002674,13,https://www.boibazar.com/book/misir-ali-unsolved-29,200,OK,Thread Group 1-2,text,true,,8797,1089,5,5,https://www.boibazar.com/asset/new/css/header.css,13,0,0
+1693906002676,10,https://www.boibazar.com/book/misir-ali-unsolved-30,200,OK,Thread Group 1-2,bin,true,,7871,1089,5,5,https://www.boibazar.com/asset/images/logo_bn.png,10,0,0
+1693906002691,10,https://www.boibazar.com/book/misir-ali-unsolved-31,200,OK,Thread Group 1-2,bin,true,,8594,1095,5,5,https://www.boibazar.com/asset/images/sign-in-48X48.png,10,0,0
+1693906002691,32,https://www.boibazar.com/book/misir-ali-unsolved-32,200,OK,Thread Group 1-2,bin,true,,28560,1095,5,5,https://www.boibazar.com/asset/images/search_loader.gif,25,0,0
+1693906002699,17,https://www.boibazar.com/book/misir-ali-unsolved-33,200,OK,Thread Group 1-2,bin,true,,1353,1095,5,5,https://www.boibazar.com/asset/images/search_button.png,17,0,0
+1693906002703,13,https://www.boibazar.com/book/misir-ali-unsolved-34,200,OK,Thread Group 1-2,bin,true,,1157,1093,5,5,https://www.boibazar.com/asset/images/cartIconWeb.png,13,0,0
+1693906002717,25,https://www.boibazar.com/book/misir-ali-unsolved-35,200,OK,Thread Group 1-2,bin,true,,27398,1088,5,5,https://www.boibazar.com/asset/images/loader.gif,14,0,0
+1693906002718,92,https://www.boibazar.com/book/misir-ali-unsolved-36,200,OK,Thread Group 1-2,bin,true,,94830,1097,5,5,https://www.boibazar.com/asset/images/popup_20210318c.png,23,0,0
+1693906002725,84,https://www.boibazar.com/book/misir-ali-unsolved-37,200,OK,Thread Group 1-2,bin,true,,75099,1097,5,5,https://www.boibazar.com/asset/images/popup_20210318m.png,13,0,0
+1693906002739,93,https://www.boibazar.com/book/misir-ali-unsolved-38,304,Not Modified,Thread Group 1-2,,true,,303,1132,5,5,https://www.boibazar.com/asset/images/book-no-photo.jpg,0,0,86
+1693906002743,43,https://www.boibazar.com/book/misir-ali-unsolved-39,304,Not Modified,Thread Group 1-2,,true,,302,1128,5,5,https://www.boibazar.com/asset/images/read-more.png,0,0,0
+1693906002787,37,https://www.boibazar.com/book/misir-ali-unsolved-40,200,OK,Thread Group 1-2,bin,true,,6240,1093,5,5,https://www.boibazar.com/asset/images/add-to-cart.png,37,0,0
+1693906002809,889,https://www.boibazar.com/book/misir-ali-unsolved-41,200,OK,Thread Group 1-2,bin,true,,198064,518,5,5,https://d1jpltibqvso3j.cloudfront.net/images/author/39000/38904/250X360/38904.png,342,0,233
+1693906002811,623,https://www.boibazar.com/book/misir-ali-unsolved-42,200,OK,Thread Group 1-2,text,true,,31940,519,5,5,https://d1jpltibqvso3j.cloudfront.net/images/product/23000/22980/250X360/22980.png,341,0,233
+1693906002825,8,https://www.boibazar.com/book/misir-ali-unsolved-43,200,OK,Thread Group 1-2,bin,true,,1949,1091,5,5,https://www.boibazar.com/asset/images/cart-icon.png,7,0,0
+1693906002833,31,https://www.boibazar.com/book/misir-ali-unsolved-44,200,OK,Thread Group 1-2,bin,true,,37850,1094,5,5,https://www.boibazar.com/asset/images/payment-icon.jpg,19,0,0
+1693906002834,46,https://www.boibazar.com/book/misir-ali-unsolved-45,200,OK,Thread Group 1-2,bin,true,,23386,1099,5,5,https://www.boibazar.com/asset/images/loading_spinner_2.gif,40,0,0
+1693906002865,1079,https://www.boibazar.com/book/misir-ali-unsolved-46,204,No Content,Thread Group 1-2,,true,,80,537,5,5,https://seal.godaddy.com/getSeal?sealID=aswDU2elfOSa6U3nivsxeRKUzkqm2YnsXyW4aUrpRC0vsq13nZn2PQhLo4EH,0,0,835
+1693906002883,14,https://www.boibazar.com/book/misir-ali-unsolved-47,200,OK,Thread Group 1-2,bin,true,,927,1101,5,5,https://www.boibazar.com/asset/images/homeAssets/cartIcon.png,14,0,0
+1693906002901,5,https://www.boibazar.com/book/misir-ali-unsolved-48,200,OK,Thread Group 1-2,bin,true,,665,1101,5,5,https://www.boibazar.com/asset/images/homeAssets/helpInfo.png,5,0,0
+1693906002903,262,https://www.boibazar.com/book/misir-ali-unsolved-49,200,OK,Thread Group 1-2,text,true,,93543,1094,5,5,https://www.boibazar.com/asset/js/jquery-1.10.2.min.js,52,0,0
+1693906002907,688,https://www.boibazar.com/book/misir-ali-unsolved-50,200,OK,Thread Group 1-2,text,true,,240865,1090,5,5,https://www.boibazar.com/asset/js/jquery-ui.min.js,243,0,0
+1693906003169,160,https://www.boibazar.com/book/misir-ali-unsolved-51,200,OK,Thread Group 1-2,text,true,,97602,1087,5,5,https://www.boibazar.com/asset/js/jquery.min.js,19,0,0
+1693906003330,106,https://www.boibazar.com/book/misir-ali-unsolved-52,200,OK,Thread Group 1-2,text,true,,28263,1090,5,5,https://www.boibazar.com/asset/js/bootstrap.min.js,92,0,0
+1693906003435,86,https://www.boibazar.com/book/misir-ali-unsolved-53,200,OK,Thread Group 1-2,text,true,,45915,1111,5,5,https://www.boibazar.com/asset/js/jquery.mCustomScrollbar.concat.min.js,49,0,0
+1693906003436,16,https://www.boibazar.com/book/misir-ali-unsolved-54,200,OK,Thread Group 1-2,text,true,,1713,1095,5,5,https://www.boibazar.com/asset/new/js/mobile-sidebar.js,16,0,0
+1693906003457,394,https://www.boibazar.com/book/misir-ali-unsolved-55,200,OK,Thread Group 1-2,text,true,,25377,1600,5,5,https://www.boibazar.com/asset/new/pslider/css/wpcs-styles.css,59,0,0
+1693906003522,12,https://www.boibazar.com/book/misir-ali-unsolved-56,200,OK,Thread Group 1-2,text,true,,4619,1103,5,5,https://www.boibazar.com/asset/new/pslider/css/owl.carousel.css,12,0,0
+1693906003535,11,https://www.boibazar.com/book/misir-ali-unsolved-57,200,OK,Thread Group 1-2,text,true,,1773,1108,5,5,https://www.boibazar.com/asset/new/pslider/css/owl.theme.default.css,11,0,0
+1693906003549,55,https://www.boibazar.com/book/misir-ali-unsolved-58,200,OK,Thread Group 1-2,text,true,,6580,1092,5,5,https://www.boibazar.com/asset/AjaxAssetJs/config.js,55,0,0
+1693906003595,14,https://www.boibazar.com/book/misir-ali-unsolved-59,200,OK,Thread Group 1-2,text,true,,5536,1091,5,5,https://www.boibazar.com/asset/js/jquery.eatoast.js,14,0,0
+1693906003604,54,https://www.boibazar.com/book/misir-ali-unsolved-60,200,OK,Thread Group 1-2,text,true,,8841,1092,5,5,https://www.boibazar.com/asset/AjaxAssetJs/signup.js,54,0,0
+1693906003609,49,https://www.boibazar.com/book/misir-ali-unsolved-61,200,OK,Thread Group 1-2,text,true,,9496,1092,5,5,https://www.boibazar.com/asset/AjaxAssetJs/signin.js,49,0,0
+1693906003658,133,https://www.boibazar.com/book/misir-ali-unsolved-62,200,OK,Thread Group 1-2,text,true,,38044,1090,5,5,https://www.boibazar.com/asset/AjaxAssetJs/cart.js,106,0,73
+1693906003659,22,https://www.boibazar.com/book/misir-ali-unsolved-63,200,OK,Thread Group 1-2,text,true,,15192,1098,5,5,https://www.boibazar.com/asset/AjaxAssetJs/commonScript.js,22,0,0
+1693906003683,25,https://www.boibazar.com/book/misir-ali-unsolved-64,200,OK,Thread Group 1-2,text,true,,25379,1092,5,5,https://www.boibazar.com/asset/AjaxAssetJs/search.js,24,0,0
+1693906003701,11,https://www.boibazar.com/book/misir-ali-unsolved-65,200,OK,Thread Group 1-2,text,true,,5311,1093,5,5,https://www.boibazar.com/asset/AjaxAssetJs/pageing.js,11,0,0
+1693906003710,20,https://www.boibazar.com/book/misir-ali-unsolved-66,200,OK,Thread Group 1-2,text,true,,1358,1097,5,5,https://www.boibazar.com/asset/AjaxAssetJs/searchPagin.js,20,0,0
+1693906003716,652,https://www.boibazar.com/book/misir-ali-unsolved-67,200,OK,Thread Group 1-2,text,true,,94215,510,5,5,https://scripts.pay.bka.sh/versions/1.2.0-beta/checkout/bKash-checkout.js,491,0,208
+1693906003733,58,https://www.boibazar.com/book/misir-ali-unsolved-68,200,OK,Thread Group 1-2,text,true,,36560,1094,5,5,https://www.boibazar.com/asset/AjaxAssetJs/prod_det.js,27,0,0
+1693906003791,135,https://www.boibazar.com/book/misir-ali-unsolved-69,200,OK,Thread Group 1-2,text,true,,50678,1104,5,5,https://www.boibazar.com/asset/new/js/jssor.slider-27.4.0.min.js,43,0,0
+1693906003791,43,https://www.boibazar.com/book/misir-ali-unsolved-70,200,OK,Thread Group 1-2,text,true,,2725,1098,5,5,https://www.boibazar.com/asset/new/js/jssor-main-slider.js,43,0,0
+1693906003835,78,https://www.boibazar.com/book/misir-ali-unsolved-71,200,OK,Thread Group 1-2,text,true,,43207,1105,5,5,https://www.boibazar.com/asset/new/pslider/js/owl.carousel.min.js,14,0,0
+1693906003852,64,https://www.boibazar.com/book/misir-ali-unsolved-72,200,OK,Thread Group 1-2,text,true,,604,1105,5,5,https://www.boibazar.com/asset/new/pslider/js/custom.js?ver=1.3.3,63,0,0
+1693906003888,72,https://www.boibazar.com/book/misir-ali-unsolved-73,200,OK,Thread Group 1-2,text,true,,10347,1114,5,5,https://www.boibazar.com/asset/new/pslider/product-slider-configuration.js,72,0,53
+1693906004422,53,https://m.boibazar.com/api/cart/,204,No Content,Thread Group 1-2,,true,,600,382,5,5,https://m.boibazar.com/api/cart/,0,0,46
+1693905990214,20723,https://www.boibazar.com/homepage-more/5,200,OK,Thread Group 1-5,text,true,,145094,3357,5,5,https://www.boibazar.com/homepage-more/5,20594,0,0
+1693905990214,20659,https://www.boibazar.com/homepage-more/5-0,200,OK,Thread Group 1-5,text,true,,144489,1051,5,5,https://www.boibazar.com/homepage-more/5,20594,0,0
+1693906010886,7,https://www.boibazar.com/homepage-more/5-1,304,Not Modified,Thread Group 1-5,,true,,302,1151,5,5,https://www.boibazar.com/asset/images/read-more.png,0,0,0
+1693906010887,50,https://www.boibazar.com/homepage-more/5-2,304,Not Modified,Thread Group 1-5,,true,,303,1155,5,5,https://www.boibazar.com/asset/images/book-no-photo.jpg,0,0,37
+1693905995561,17628,https://m.boibazar.com/api/cart/,200,OK,Thread Group 1-1,text,true,,771,623,5,5,https://m.boibazar.com/api/cart/,17628,0,0
+1693906013192,11,https://m.boibazar.com/api/stock-check/5a82e345aa4811514da8c2e4,204,No Content,Thread Group 1-1,,true,,458,550,5,5,https://m.boibazar.com/api/stock-check/5a82e345aa4811514da8c2e4,0,0,0
+1693905994565,22904,https://www.boibazar.com/book/misir-ali-unsolved,200,"Embedded resource download error:https://www.googletagmanager.com/gtag/js?id=UA-116540278-1 code:Non HTTP response code: java.net.UnknownHostException message:Non HTTP response message: No such host is known (www.googletagmanager.com), https://www.googletagmanager.com/gtag/js?id=G-BMW5GE0L3F code:Non HTTP response code: java.net.UnknownHostException message:Non HTTP response message: www.googletagmanager.com, ",Thread Group 1-3,text,false,,2118428,75338,5,5,https://www.boibazar.com/book/misir-ali-unsolved,19850,0,0
+1693905994565,20014,https://www.boibazar.com/book/misir-ali-unsolved-0,200,OK,Thread Group 1-3,text,true,,230210,1082,5,5,https://www.boibazar.com/book/misir-ali-unsolved,19850,0,0
+1693906014632,22,https://www.boibazar.com/book/misir-ali-unsolved-1,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: No such host is known (www.googletagmanager.com),Thread Group 1-3,text,false,,2849,0,5,5,https://www.googletagmanager.com/gtag/js?id=UA-116540278-1,0,0,22
+1693906014635,19,https://www.boibazar.com/book/misir-ali-unsolved-2,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: www.googletagmanager.com,Thread Group 1-3,text,false,,2646,0,5,5,https://www.googletagmanager.com/gtag/js?id=G-BMW5GE0L3F,0,0,19
+1693906014636,35,https://www.boibazar.com/book/misir-ali-unsolved-3,200,OK,Thread Group 1-3,bin,true,,22953,1100,5,5,https://www.boibazar.com/asset/icon/android-icon-192x192.png,21,0,0
+1693906014636,88,https://www.boibazar.com/book/misir-ali-unsolved-4,200,OK,Thread Group 1-3,bin,true,,1779,1093,5,5,https://www.boibazar.com/asset/icon/favicon-32x32.png,88,0,67
+1693906014639,88,https://www.boibazar.com/book/misir-ali-unsolved-5,200,OK,Thread Group 1-3,bin,true,,5070,1093,5,5,https://www.boibazar.com/asset/icon/favicon-96x96.png,88,0,71
+1693906014638,89,https://www.boibazar.com/book/misir-ali-unsolved-6,200,OK,Thread Group 1-3,bin,true,,1016,1093,5,5,https://www.boibazar.com/asset/icon/favicon-16x16.png,89,0,65
+1693906014657,56,https://www.boibazar.com/book/misir-ali-unsolved-7,200,OK,Thread Group 1-3,text,true,,28400,512,5,5,https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css,50,0,31
+1693906014660,76,https://www.boibazar.com/book/misir-ali-unsolved-8,200,OK,Thread Group 1-3,text,true,,10505,1092,5,5,https://www.boibazar.com/asset/new/js/fingerprint.js,76,0,60
+1693906014677,154,https://www.boibazar.com/book/misir-ali-unsolved-9,200,OK,Thread Group 1-3,text,true,,87364,1089,5,5,https://www.boibazar.com/asset/js/jquery-3.3.1.js,115,0,70
+1693906014714,440,https://www.boibazar.com/book/misir-ali-unsolved-10,200,OK,Thread Group 1-3,text,true,,122182,506,5,5,https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css,32,0,0
+1693906014725,869,https://www.boibazar.com/book/misir-ali-unsolved-11,200,OK,Thread Group 1-3,text,true,,9800,1593,5,5,https://www.boibazar.com/asset/new/css/style3.css,92,0,65
+1693906014728,448,https://www.boibazar.com/book/misir-ali-unsolved-12,200,OK,Thread Group 1-3,text,true,,43810,544,5,5,https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.5/jquery.mCustomScrollbar.min.css,166,0,98
+1693906014728,932,https://www.boibazar.com/book/misir-ali-unsolved-13,200,OK,Thread Group 1-3,text,true,,31905,512,5,5,https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css,349,0,220
+1693906014740,83,https://www.boibazar.com/book/misir-ali-unsolved-14,200,OK,Thread Group 1-3,text,true,,4641,1098,5,5,https://www.boibazar.com/asset/new/css/navbar-megamenu.css,83,0,56
+1693906014829,9,https://www.boibazar.com/book/misir-ali-unsolved-15,200,OK,Thread Group 1-3,text,true,,5139,1088,5,5,https://www.boibazar.com/asset/new/css/style.css,9,0,0
+1693906014832,8,https://www.boibazar.com/book/misir-ali-unsolved-16,200,OK,Thread Group 1-3,text,true,,525,1108,5,5,https://www.boibazar.com/asset/new/pslider/product-slider-custom.css,7,0,0
+1693906014842,13,https://www.boibazar.com/book/misir-ali-unsolved-17,200,OK,Thread Group 1-3,text,true,,2121,1093,5,5,https://www.boibazar.com/asset/css/jquery.eatoast.css,12,0,0
+1693906014843,49,https://www.boibazar.com/book/misir-ali-unsolved-18,200,OK,Thread Group 1-3,text,true,,31951,1091,5,5,https://www.boibazar.com/asset/sass/home/global.css,41,0,0
+1693906014857,29,https://www.boibazar.com/book/misir-ali-unsolved-19,200,OK,Thread Group 1-3,text,true,,2269,1087,5,5,https://www.boibazar.com/asset/new/css/head.css,29,0,0
+1693906014889,8,https://www.boibazar.com/book/misir-ali-unsolved-20,200,OK,Thread Group 1-3,text,true,,7995,1100,5,5,https://www.boibazar.com/asset/sass/home/product-details.css,8,0,0
+1693906014895,11,https://www.boibazar.com/book/misir-ali-unsolved-21,200,OK,Thread Group 1-3,bin,true,,910,1092,5,5,https://www.boibazar.com/asset/images/Home-48X48.png,11,0,0
+1693906014901,10,https://www.boibazar.com/book/misir-ali-unsolved-22,200,OK,Thread Group 1-3,bin,true,,7406,1099,5,5,https://www.boibazar.com/asset/images/Track-Order-48X48.png,10,0,0
+1693906014907,7,https://www.boibazar.com/book/misir-ali-unsolved-23,200,OK,Thread Group 1-3,bin,true,,835,1098,5,5,https://www.boibazar.com/asset/images/Categories-48X48.png,7,0,0
+1693906014911,26,https://www.boibazar.com/book/misir-ali-unsolved-24,200,OK,Thread Group 1-3,bin,true,,788,1095,5,5,https://www.boibazar.com/asset/images/Authors-48X48.png,26,0,0
+1693906014915,23,https://www.boibazar.com/book/misir-ali-unsolved-25,200,OK,Thread Group 1-3,bin,true,,870,1098,5,5,https://www.boibazar.com/asset/images/Publishers-48X48.png,23,0,0
+1693906014938,13,https://www.boibazar.com/book/misir-ali-unsolved-26,200,OK,Thread Group 1-3,bin,true,,1207,1092,5,5,https://www.boibazar.com/asset/images/Blog-48X48.png,13,0,0
+1693906014940,17,https://www.boibazar.com/book/misir-ali-unsolved-27,200,OK,Thread Group 1-3,bin,true,,1116,1096,5,5,https://www.boibazar.com/asset/images/About-us-48X48.png,17,0,0
+1693906014953,7,https://www.boibazar.com/book/misir-ali-unsolved-28,200,OK,Thread Group 1-3,bin,true,,1060,1098,5,5,https://www.boibazar.com/asset/images/Contact-us-48X48.png,7,0,0
+1693906014957,9,https://www.boibazar.com/book/misir-ali-unsolved-29,200,OK,Thread Group 1-3,text,true,,8797,1089,5,5,https://www.boibazar.com/asset/new/css/header.css,9,0,0
+1693906014961,18,https://www.boibazar.com/book/misir-ali-unsolved-30,200,OK,Thread Group 1-3,bin,true,,7871,1089,5,5,https://www.boibazar.com/asset/images/logo_bn.png,18,0,0
+1693906014967,24,https://www.boibazar.com/book/misir-ali-unsolved-31,200,OK,Thread Group 1-3,bin,true,,8594,1095,5,5,https://www.boibazar.com/asset/images/sign-in-48X48.png,24,0,0
+1693906014979,44,https://www.boibazar.com/book/misir-ali-unsolved-32,200,OK,Thread Group 1-3,bin,true,,28560,1095,5,5,https://www.boibazar.com/asset/images/search_loader.gif,42,0,0
+1693906014991,54,https://www.boibazar.com/book/misir-ali-unsolved-33,200,OK,Thread Group 1-3,bin,true,,1353,1095,5,5,https://www.boibazar.com/asset/images/search_button.png,54,0,0
+1693906015026,28,https://www.boibazar.com/book/misir-ali-unsolved-34,200,OK,Thread Group 1-3,bin,true,,1157,1093,5,5,https://www.boibazar.com/asset/images/cartIconWeb.png,27,0,0
+1693906015046,18,https://www.boibazar.com/book/misir-ali-unsolved-35,200,OK,Thread Group 1-3,bin,true,,27398,1088,5,5,https://www.boibazar.com/asset/images/loader.gif,17,0,0
+1693906015055,79,https://www.boibazar.com/book/misir-ali-unsolved-36,200,OK,Thread Group 1-3,bin,true,,94830,1097,5,5,https://www.boibazar.com/asset/images/popup_20210318c.png,22,0,0
+1693906015065,73,https://www.boibazar.com/book/misir-ali-unsolved-37,200,OK,Thread Group 1-3,bin,true,,75099,1097,5,5,https://www.boibazar.com/asset/images/popup_20210318m.png,26,0,0
+1693906015134,20,https://www.boibazar.com/book/misir-ali-unsolved-38,304,Not Modified,Thread Group 1-3,,true,,302,1132,5,5,https://www.boibazar.com/asset/images/book-no-photo.jpg,0,0,0
+1693906015139,15,https://www.boibazar.com/book/misir-ali-unsolved-39,304,Not Modified,Thread Group 1-3,,true,,302,1128,5,5,https://www.boibazar.com/asset/images/read-more.png,0,0,0
+1693906015154,8,https://www.boibazar.com/book/misir-ali-unsolved-40,200,OK,Thread Group 1-3,bin,true,,6240,1093,5,5,https://www.boibazar.com/asset/images/add-to-cart.png,8,0,0
+1693906015154,1105,https://www.boibazar.com/book/misir-ali-unsolved-41,200,OK,Thread Group 1-3,bin,true,,198064,518,5,5,https://d1jpltibqvso3j.cloudfront.net/images/author/39000/38904/250X360/38904.png,474,0,245
+1693906015156,564,https://www.boibazar.com/book/misir-ali-unsolved-42,200,OK,Thread Group 1-3,text,true,,31940,519,5,5,https://d1jpltibqvso3j.cloudfront.net/images/product/23000/22980/250X360/22980.png,491,0,241
+1693906015163,8,https://www.boibazar.com/book/misir-ali-unsolved-43,200,OK,Thread Group 1-3,bin,true,,1949,1091,5,5,https://www.boibazar.com/asset/images/cart-icon.png,7,0,0
+1693906015173,141,https://www.boibazar.com/book/misir-ali-unsolved-44,200,OK,Thread Group 1-3,bin,true,,37850,1094,5,5,https://www.boibazar.com/asset/images/payment-icon.jpg,38,0,0
+1693906015176,145,https://www.boibazar.com/book/misir-ali-unsolved-45,200,OK,Thread Group 1-3,bin,true,,23386,1099,5,5,https://www.boibazar.com/asset/images/loading_spinner_2.gif,145,0,0
+1693906015316,2153,https://www.boibazar.com/book/misir-ali-unsolved-46,204,No Content,Thread Group 1-3,,true,,80,537,5,5,https://seal.godaddy.com/getSeal?sealID=aswDU2elfOSa6U3nivsxeRKUzkqm2YnsXyW4aUrpRC0vsq13nZn2PQhLo4EH,0,0,1874
+1693906015321,6,https://www.boibazar.com/book/misir-ali-unsolved-47,200,OK,Thread Group 1-3,bin,true,,927,1101,5,5,https://www.boibazar.com/asset/images/homeAssets/cartIcon.png,6,0,0
+1693906015327,6,https://www.boibazar.com/book/misir-ali-unsolved-48,200,OK,Thread Group 1-3,bin,true,,665,1101,5,5,https://www.boibazar.com/asset/images/homeAssets/helpInfo.png,6,0,0
+1693906015333,91,https://www.boibazar.com/book/misir-ali-unsolved-49,200,OK,Thread Group 1-3,text,true,,93543,1094,5,5,https://www.boibazar.com/asset/js/jquery-1.10.2.min.js,8,0,0
+1693906015427,351,https://www.boibazar.com/book/misir-ali-unsolved-50,200,OK,Thread Group 1-3,text,true,,240865,1090,5,5,https://www.boibazar.com/asset/js/jquery-ui.min.js,29,0,0
+1693906015594,227,https://www.boibazar.com/book/misir-ali-unsolved-51,200,OK,Thread Group 1-3,text,true,,97602,1087,5,5,https://www.boibazar.com/asset/js/jquery.min.js,73,0,0
+1693906015661,110,https://www.boibazar.com/book/misir-ali-unsolved-52,200,OK,Thread Group 1-3,text,true,,28263,1090,5,5,https://www.boibazar.com/asset/js/bootstrap.min.js,101,0,0
+1693906015721,73,https://www.boibazar.com/book/misir-ali-unsolved-53,200,OK,Thread Group 1-3,text,true,,45915,1111,5,5,https://www.boibazar.com/asset/js/jquery.mCustomScrollbar.concat.min.js,61,0,0
+1693906015772,20,https://www.boibazar.com/book/misir-ali-unsolved-54,200,OK,Thread Group 1-3,text,true,,1713,1095,5,5,https://www.boibazar.com/asset/new/js/mobile-sidebar.js,20,0,0
+1693906015778,457,https://www.boibazar.com/book/misir-ali-unsolved-55,200,OK,Thread Group 1-3,text,true,,25377,1600,5,5,https://www.boibazar.com/asset/new/pslider/css/wpcs-styles.css,42,0,0
+1693906015792,30,https://www.boibazar.com/book/misir-ali-unsolved-56,200,OK,Thread Group 1-3,text,true,,4619,1103,5,5,https://www.boibazar.com/asset/new/pslider/css/owl.carousel.css,30,0,0
+1693906015794,29,https://www.boibazar.com/book/misir-ali-unsolved-57,200,OK,Thread Group 1-3,text,true,,1773,1108,5,5,https://www.boibazar.com/asset/new/pslider/css/owl.theme.default.css,29,0,0
+1693906015824,13,https://www.boibazar.com/book/misir-ali-unsolved-58,200,OK,Thread Group 1-3,text,true,,6580,1092,5,5,https://www.boibazar.com/asset/AjaxAssetJs/config.js,12,0,0
+1693906015823,157,https://www.boibazar.com/book/misir-ali-unsolved-59,200,OK,Thread Group 1-3,text,true,,5537,1091,5,5,https://www.boibazar.com/asset/js/jquery.eatoast.js,157,0,66
+1693906015825,25,https://www.boibazar.com/book/misir-ali-unsolved-60,200,OK,Thread Group 1-3,text,true,,8841,1092,5,5,https://www.boibazar.com/asset/AjaxAssetJs/signup.js,24,0,0
+1693906015839,10,https://www.boibazar.com/book/misir-ali-unsolved-61,200,OK,Thread Group 1-3,text,true,,9496,1092,5,5,https://www.boibazar.com/asset/AjaxAssetJs/signin.js,10,0,0
+1693906015850,153,https://www.boibazar.com/book/misir-ali-unsolved-62,200,OK,Thread Group 1-3,text,true,,38043,1090,5,5,https://www.boibazar.com/asset/AjaxAssetJs/cart.js,130,0,0
+1693906015853,126,https://www.boibazar.com/book/misir-ali-unsolved-63,200,OK,Thread Group 1-3,text,true,,15192,1098,5,5,https://www.boibazar.com/asset/AjaxAssetJs/commonScript.js,126,0,0
+1693906015980,287,https://www.boibazar.com/book/misir-ali-unsolved-64,200,OK,Thread Group 1-3,text,true,,25379,1092,5,5,https://www.boibazar.com/asset/AjaxAssetJs/search.js,123,0,0
+1693906015980,64,https://www.boibazar.com/book/misir-ali-unsolved-65,200,OK,Thread Group 1-3,text,true,,5311,1093,5,5,https://www.boibazar.com/asset/AjaxAssetJs/pageing.js,64,0,0
+1693906016005,104,https://www.boibazar.com/book/misir-ali-unsolved-66,200,OK,Thread Group 1-3,text,true,,1358,1097,5,5,https://www.boibazar.com/asset/AjaxAssetJs/searchPagin.js,103,0,0
+1693906016045,921,https://www.boibazar.com/book/misir-ali-unsolved-67,200,OK,Thread Group 1-3,text,true,,94215,510,5,5,https://scripts.pay.bka.sh/versions/1.2.0-beta/checkout/bKash-checkout.js,713,0,317
+1693906016109,361,https://www.boibazar.com/book/misir-ali-unsolved-68,200,OK,Thread Group 1-3,text,true,,36560,1094,5,5,https://www.boibazar.com/asset/AjaxAssetJs/prod_det.js,229,0,0
+1693906016238,368,https://www.boibazar.com/book/misir-ali-unsolved-69,200,OK,Thread Group 1-3,text,true,,50678,1104,5,5,https://www.boibazar.com/asset/new/js/jssor.slider-27.4.0.min.js,202,0,0
+1693906016259,199,https://www.boibazar.com/book/misir-ali-unsolved-70,200,OK,Thread Group 1-3,text,true,,2725,1098,5,5,https://www.boibazar.com/asset/new/js/jssor-main-slider.js,199,0,0
+1693906016267,405,https://www.boibazar.com/book/misir-ali-unsolved-71,200,OK,Thread Group 1-3,text,true,,43207,1105,5,5,https://www.boibazar.com/asset/new/pslider/js/owl.carousel.min.js,222,0,0
+1693906016458,148,https://www.boibazar.com/book/misir-ali-unsolved-72,200,OK,Thread Group 1-3,text,true,,604,1105,5,5,https://www.boibazar.com/asset/new/pslider/js/custom.js?ver=1.3.3,148,0,0
+1693906016472,134,https://www.boibazar.com/book/misir-ali-unsolved-73,200,OK,Thread Group 1-3,text,true,,10346,1114,5,5,https://www.boibazar.com/asset/new/pslider/product-slider-configuration.js,134,0,0
+1693906017476,242,https://m.boibazar.com/api/cart/,204,No Content,Thread Group 1-3,,true,,596,382,5,5,https://m.boibazar.com/api/cart/,0,0,172
+1693906013205,7692,https://m.boibazar.com/api/stock-check/5a82e345aa4811514da8c2e4,200,OK,Thread Group 1-1,text,true,,619,646,5,5,https://m.boibazar.com/api/stock-check/5a82e345aa4811514da8c2e4,7692,0,0
+1693906020903,14,https://m.boibazar.com/api/hit-update/misir-ali-unsolved,204,No Content,Thread Group 1-1,,true,,414,497,5,5,https://m.boibazar.com/api/hit-update/misir-ali-unsolved,0,0,0
+1693906020920,107,https://m.boibazar.com/api/hit-update/misir-ali-unsolved,200,OK,Thread Group 1-1,text,true,,618,714,5,5,https://m.boibazar.com/api/hit-update/misir-ali-unsolved,107,0,0
+1693905998858,22427,https://www.boibazar.com/book/misir-ali-unsolved,200,"Embedded resource download error:https://www.googletagmanager.com/gtag/js?id=UA-116540278-1 code:Non HTTP response code: java.net.UnknownHostException message:Non HTTP response message: www.googletagmanager.com, https://www.googletagmanager.com/gtag/js?id=G-BMW5GE0L3F code:Non HTTP response code: java.net.UnknownHostException message:Non HTTP response message: www.googletagmanager.com, ",Thread Group 1-4,text,false,,2118053,75216,5,5,https://www.boibazar.com/book/misir-ali-unsolved,17151,0,0
+1693905998858,17972,https://www.boibazar.com/book/misir-ali-unsolved-0,200,OK,Thread Group 1-4,text,true,,230208,1086,5,5,https://www.boibazar.com/book/misir-ali-unsolved,17151,0,0
+1693906016889,1,https://www.boibazar.com/book/misir-ali-unsolved-1,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: www.googletagmanager.com,Thread Group 1-4,text,false,,2563,0,5,5,https://www.googletagmanager.com/gtag/js?id=UA-116540278-1,0,0,1
+1693906016889,11,https://www.boibazar.com/book/misir-ali-unsolved-2,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: www.googletagmanager.com,Thread Group 1-4,text,false,,2563,0,5,5,https://www.googletagmanager.com/gtag/js?id=G-BMW5GE0L3F,0,0,11
+1693906016889,142,https://www.boibazar.com/book/misir-ali-unsolved-3,200,OK,Thread Group 1-4,bin,true,,22953,1098,5,5,https://www.boibazar.com/asset/icon/android-icon-192x192.png,131,0,0
+1693906016891,270,https://www.boibazar.com/book/misir-ali-unsolved-4,200,OK,Thread Group 1-4,bin,true,,1779,1091,5,5,https://www.boibazar.com/asset/icon/favicon-32x32.png,270,0,232
+1693906016897,265,https://www.boibazar.com/book/misir-ali-unsolved-5,200,OK,Thread Group 1-4,bin,true,,5070,1091,5,5,https://www.boibazar.com/asset/icon/favicon-96x96.png,265,0,226
+1693906016893,272,https://www.boibazar.com/book/misir-ali-unsolved-6,200,OK,Thread Group 1-4,bin,true,,1016,1091,5,5,https://www.boibazar.com/asset/icon/favicon-16x16.png,272,0,230
+1693906016895,746,https://www.boibazar.com/book/misir-ali-unsolved-7,200,OK,Thread Group 1-4,text,true,,28400,512,5,5,https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css,231,0,148
+1693906016904,260,https://www.boibazar.com/book/misir-ali-unsolved-8,200,OK,Thread Group 1-4,text,true,,10505,1090,5,5,https://www.boibazar.com/asset/new/js/fingerprint.js,260,0,219
+1693906017032,550,https://www.boibazar.com/book/misir-ali-unsolved-9,200,OK,Thread Group 1-4,text,true,,87364,1087,5,5,https://www.boibazar.com/asset/js/jquery-3.3.1.js,312,0,165
+1693906017162,987,https://www.boibazar.com/book/misir-ali-unsolved-10,200,OK,Thread Group 1-4,text,true,,122182,506,5,5,https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css,98,0,55
+1693906017162,568,https://www.boibazar.com/book/misir-ali-unsolved-11,200,OK,Thread Group 1-4,text,true,,9800,1591,5,5,https://www.boibazar.com/asset/new/css/style3.css,211,0,70
+1693906017165,579,https://www.boibazar.com/book/misir-ali-unsolved-12,200,OK,Thread Group 1-4,text,true,,43806,544,5,5,https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.5/jquery.mCustomScrollbar.min.css,417,0,66
+1693906017165,809,https://www.boibazar.com/book/misir-ali-unsolved-13,200,OK,Thread Group 1-4,text,true,,31905,512,5,5,https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css,261,0,61
+1693906017583,86,https://www.boibazar.com/book/misir-ali-unsolved-14,200,OK,Thread Group 1-4,text,true,,4640,1096,5,5,https://www.boibazar.com/asset/new/css/navbar-megamenu.css,86,0,0
+1693906017641,76,https://www.boibazar.com/book/misir-ali-unsolved-15,200,OK,Thread Group 1-4,text,true,,5139,1086,5,5,https://www.boibazar.com/asset/new/css/style.css,76,0,0
+1693906017670,26,https://www.boibazar.com/book/misir-ali-unsolved-16,200,OK,Thread Group 1-4,text,true,,525,1106,5,5,https://www.boibazar.com/asset/new/pslider/product-slider-custom.css,26,0,0
+1693906017697,61,https://www.boibazar.com/book/misir-ali-unsolved-17,200,OK,Thread Group 1-4,text,true,,2121,1091,5,5,https://www.boibazar.com/asset/css/jquery.eatoast.css,61,0,0
+1693906017718,226,https://www.boibazar.com/book/misir-ali-unsolved-18,200,OK,Thread Group 1-4,text,true,,31951,1089,5,5,https://www.boibazar.com/asset/sass/home/global.css,179,0,0
+1693906017737,160,https://www.boibazar.com/book/misir-ali-unsolved-19,200,OK,Thread Group 1-4,text,true,,2269,1085,5,5,https://www.boibazar.com/asset/new/css/head.css,160,0,0
+1693906017750,147,https://www.boibazar.com/book/misir-ali-unsolved-20,200,OK,Thread Group 1-4,text,true,,7995,1098,5,5,https://www.boibazar.com/asset/sass/home/product-details.css,147,0,0
+1693906017759,391,https://www.boibazar.com/book/misir-ali-unsolved-21,200,OK,Thread Group 1-4,bin,true,,910,1090,5,5,https://www.boibazar.com/asset/images/Home-48X48.png,391,0,0
+1693906017898,55,https://www.boibazar.com/book/misir-ali-unsolved-22,200,OK,Thread Group 1-4,bin,true,,7406,1097,5,5,https://www.boibazar.com/asset/images/Track-Order-48X48.png,55,0,0
+1693906017898,59,https://www.boibazar.com/book/misir-ali-unsolved-23,200,OK,Thread Group 1-4,bin,true,,835,1096,5,5,https://www.boibazar.com/asset/images/Categories-48X48.png,59,0,0
+1693906017945,19,https://www.boibazar.com/book/misir-ali-unsolved-24,200,OK,Thread Group 1-4,bin,true,,788,1093,5,5,https://www.boibazar.com/asset/images/Authors-48X48.png,19,0,0
+1693906017954,12,https://www.boibazar.com/book/misir-ali-unsolved-25,200,OK,Thread Group 1-4,bin,true,,870,1096,5,5,https://www.boibazar.com/asset/images/Publishers-48X48.png,12,0,0
+1693906017958,13,https://www.boibazar.com/book/misir-ali-unsolved-26,200,OK,Thread Group 1-4,bin,true,,1207,1090,5,5,https://www.boibazar.com/asset/images/Blog-48X48.png,13,0,0
+1693906017964,10,https://www.boibazar.com/book/misir-ali-unsolved-27,200,OK,Thread Group 1-4,bin,true,,1116,1094,5,5,https://www.boibazar.com/asset/images/About-us-48X48.png,10,0,0
+1693906017967,14,https://www.boibazar.com/book/misir-ali-unsolved-28,200,OK,Thread Group 1-4,bin,true,,1060,1096,5,5,https://www.boibazar.com/asset/images/Contact-us-48X48.png,14,0,0
+1693906017972,48,https://www.boibazar.com/book/misir-ali-unsolved-29,200,OK,Thread Group 1-4,text,true,,8797,1087,5,5,https://www.boibazar.com/asset/new/css/header.css,48,0,0
+1693906017976,30,https://www.boibazar.com/book/misir-ali-unsolved-30,200,OK,Thread Group 1-4,bin,true,,7871,1087,5,5,https://www.boibazar.com/asset/images/logo_bn.png,29,0,0
+1693906017977,169,https://www.boibazar.com/book/misir-ali-unsolved-31,200,OK,Thread Group 1-4,bin,true,,8595,1093,5,5,https://www.boibazar.com/asset/images/sign-in-48X48.png,169,0,75
+1693906017982,129,https://www.boibazar.com/book/misir-ali-unsolved-32,200,OK,Thread Group 1-4,bin,true,,28560,1093,5,5,https://www.boibazar.com/asset/images/search_loader.gif,70,0,0
+1693906018007,26,https://www.boibazar.com/book/misir-ali-unsolved-33,200,OK,Thread Group 1-4,bin,true,,1353,1093,5,5,https://www.boibazar.com/asset/images/search_button.png,26,0,0
+1693906018022,32,https://www.boibazar.com/book/misir-ali-unsolved-34,200,OK,Thread Group 1-4,bin,true,,1157,1091,5,5,https://www.boibazar.com/asset/images/cartIconWeb.png,32,0,0
+1693906018036,120,https://www.boibazar.com/book/misir-ali-unsolved-35,200,OK,Thread Group 1-4,bin,true,,27398,1086,5,5,https://www.boibazar.com/asset/images/loader.gif,68,0,0
+1693906018055,781,https://www.boibazar.com/book/misir-ali-unsolved-36,200,OK,Thread Group 1-4,bin,true,,94830,1095,5,5,https://www.boibazar.com/asset/images/popup_20210318c.png,124,0,0
+1693906018113,670,https://www.boibazar.com/book/misir-ali-unsolved-37,200,OK,Thread Group 1-4,bin,true,,75099,1095,5,5,https://www.boibazar.com/asset/images/popup_20210318m.png,110,0,0
+1693906018146,56,https://www.boibazar.com/book/misir-ali-unsolved-38,304,Not Modified,Thread Group 1-4,,true,,302,1130,5,5,https://www.boibazar.com/asset/images/book-no-photo.jpg,0,0,0
+1693906018150,68,https://www.boibazar.com/book/misir-ali-unsolved-39,304,Not Modified,Thread Group 1-4,,true,,302,1126,5,5,https://www.boibazar.com/asset/images/read-more.png,0,0,0
+1693906018150,635,https://www.boibazar.com/book/misir-ali-unsolved-40,200,OK,Thread Group 1-4,bin,true,,6241,1091,5,5,https://www.boibazar.com/asset/images/add-to-cart.png,635,0,131
+1693906018157,1378,https://www.boibazar.com/book/misir-ali-unsolved-41,200,OK,Thread Group 1-4,bin,true,,198064,518,5,5,https://d1jpltibqvso3j.cloudfront.net/images/author/39000/38904/250X360/38904.png,385,0,144
+1693906018203,781,https://www.boibazar.com/book/misir-ali-unsolved-42,200,OK,Thread Group 1-4,text,true,,31940,519,5,5,https://d1jpltibqvso3j.cloudfront.net/images/product/23000/22980/250X360/22980.png,509,0,346
+1693906018218,22,https://www.boibazar.com/book/misir-ali-unsolved-43,200,OK,Thread Group 1-4,bin,true,,1949,1089,5,5,https://www.boibazar.com/asset/images/cart-icon.png,22,0,0
+1693906018241,151,https://www.boibazar.com/book/misir-ali-unsolved-44,200,OK,Thread Group 1-4,bin,true,,37850,1092,5,5,https://www.boibazar.com/asset/images/payment-icon.jpg,51,0,0
+1693906018392,183,https://www.boibazar.com/book/misir-ali-unsolved-45,200,OK,Thread Group 1-4,bin,true,,23386,1097,5,5,https://www.boibazar.com/asset/images/loading_spinner_2.gif,181,0,0
+1693906018577,1218,https://www.boibazar.com/book/misir-ali-unsolved-46,204,No Content,Thread Group 1-4,,true,,80,537,5,5,https://seal.godaddy.com/getSeal?sealID=aswDU2elfOSa6U3nivsxeRKUzkqm2YnsXyW4aUrpRC0vsq13nZn2PQhLo4EH,0,0,967
+1693906018784,65,https://www.boibazar.com/book/misir-ali-unsolved-47,200,OK,Thread Group 1-4,bin,true,,927,1099,5,5,https://www.boibazar.com/asset/images/homeAssets/cartIcon.png,65,0,0
+1693906018786,66,https://www.boibazar.com/book/misir-ali-unsolved-48,200,OK,Thread Group 1-4,bin,true,,665,1099,5,5,https://www.boibazar.com/asset/images/homeAssets/helpInfo.png,66,0,0
+1693906018836,1039,https://www.boibazar.com/book/misir-ali-unsolved-49,200,OK,Thread Group 1-4,text,true,,93543,1092,5,5,https://www.boibazar.com/asset/js/jquery-1.10.2.min.js,104,0,0
+1693906018850,1821,https://www.boibazar.com/book/misir-ali-unsolved-50,200,OK,Thread Group 1-4,text,true,,240865,1088,5,5,https://www.boibazar.com/asset/js/jquery-ui.min.js,183,0,0
+1693906018852,1590,https://www.boibazar.com/book/misir-ali-unsolved-51,200,OK,Thread Group 1-4,text,true,,97602,1085,5,5,https://www.boibazar.com/asset/js/jquery.min.js,789,0,0
+1693906018985,497,https://www.boibazar.com/book/misir-ali-unsolved-52,200,OK,Thread Group 1-4,text,true,,28263,1088,5,5,https://www.boibazar.com/asset/js/bootstrap.min.js,418,0,0
+1693906019483,288,https://www.boibazar.com/book/misir-ali-unsolved-53,200,OK,Thread Group 1-4,text,true,,45915,1109,5,5,https://www.boibazar.com/asset/js/jquery.mCustomScrollbar.concat.min.js,124,0,0
+1693906019537,177,https://www.boibazar.com/book/misir-ali-unsolved-54,200,OK,Thread Group 1-4,text,true,,1713,1093,5,5,https://www.boibazar.com/asset/new/js/mobile-sidebar.js,177,0,0
+1693906019716,668,https://www.boibazar.com/book/misir-ali-unsolved-55,200,OK,Thread Group 1-4,text,true,,25377,1598,5,5,https://www.boibazar.com/asset/new/pslider/css/wpcs-styles.css,194,0,0
+1693906019772,120,https://www.boibazar.com/book/misir-ali-unsolved-56,200,OK,Thread Group 1-4,text,true,,4619,1101,5,5,https://www.boibazar.com/asset/new/pslider/css/owl.carousel.css,120,0,0
+1693906019795,107,https://www.boibazar.com/book/misir-ali-unsolved-57,200,OK,Thread Group 1-4,text,true,,1773,1106,5,5,https://www.boibazar.com/asset/new/pslider/css/owl.theme.default.css,107,0,0
+1693906019875,98,https://www.boibazar.com/book/misir-ali-unsolved-58,200,OK,Thread Group 1-4,text,true,,6580,1090,5,5,https://www.boibazar.com/asset/AjaxAssetJs/config.js,98,0,0
+1693906019893,61,https://www.boibazar.com/book/misir-ali-unsolved-59,200,OK,Thread Group 1-4,text,true,,5536,1089,5,5,https://www.boibazar.com/asset/js/jquery.eatoast.js,61,0,0
+1693906019903,129,https://www.boibazar.com/book/misir-ali-unsolved-60,200,OK,Thread Group 1-4,text,true,,8841,1090,5,5,https://www.boibazar.com/asset/AjaxAssetJs/signup.js,129,0,0
+1693906019955,118,https://www.boibazar.com/book/misir-ali-unsolved-61,200,OK,Thread Group 1-4,text,true,,9496,1090,5,5,https://www.boibazar.com/asset/AjaxAssetJs/signin.js,118,0,0
+1693906019974,468,https://www.boibazar.com/book/misir-ali-unsolved-62,200,OK,Thread Group 1-4,text,true,,38043,1088,5,5,https://www.boibazar.com/asset/AjaxAssetJs/cart.js,278,0,0
+1693906020032,410,https://www.boibazar.com/book/misir-ali-unsolved-63,200,OK,Thread Group 1-4,text,true,,15192,1096,5,5,https://www.boibazar.com/asset/AjaxAssetJs/commonScript.js,410,0,0
+1693906020074,375,https://www.boibazar.com/book/misir-ali-unsolved-64,200,OK,Thread Group 1-4,text,true,,25379,1090,5,5,https://www.boibazar.com/asset/AjaxAssetJs/search.js,261,0,0
+1693906020385,58,https://www.boibazar.com/book/misir-ali-unsolved-65,200,OK,Thread Group 1-4,text,true,,5311,1091,5,5,https://www.boibazar.com/asset/AjaxAssetJs/pageing.js,58,0,0
+1693906020443,29,https://www.boibazar.com/book/misir-ali-unsolved-66,200,OK,Thread Group 1-4,text,true,,1358,1095,5,5,https://www.boibazar.com/asset/AjaxAssetJs/searchPagin.js,29,0,0
+1693906020444,841,https://www.boibazar.com/book/misir-ali-unsolved-67,200,OK,Thread Group 1-4,text,true,,94215,510,5,5,https://scripts.pay.bka.sh/versions/1.2.0-beta/checkout/bKash-checkout.js,552,0,213
+1693906020444,168,https://www.boibazar.com/book/misir-ali-unsolved-68,200,OK,Thread Group 1-4,text,true,,36560,1092,5,5,https://www.boibazar.com/asset/AjaxAssetJs/prod_det.js,67,0,0
+1693906020445,284,https://www.boibazar.com/book/misir-ali-unsolved-69,200,OK,Thread Group 1-4,text,true,,50678,1102,5,5,https://www.boibazar.com/asset/new/js/jssor.slider-27.4.0.min.js,125,0,0
+1693906020450,54,https://www.boibazar.com/book/misir-ali-unsolved-70,200,OK,Thread Group 1-4,text,true,,2725,1096,5,5,https://www.boibazar.com/asset/new/js/jssor-main-slider.js,54,0,0
+1693906020474,254,https://www.boibazar.com/book/misir-ali-unsolved-71,200,OK,Thread Group 1-4,text,true,,43207,1103,5,5,https://www.boibazar.com/asset/new/pslider/js/owl.carousel.min.js,147,0,0
+1693906020507,75,https://www.boibazar.com/book/misir-ali-unsolved-72,200,OK,Thread Group 1-4,text,true,,604,1103,5,5,https://www.boibazar.com/asset/new/pslider/js/custom.js?ver=1.3.3,75,0,0
+1693906020583,98,https://www.boibazar.com/book/misir-ali-unsolved-73,200,OK,Thread Group 1-4,text,true,,10346,1112,5,5,https://www.boibazar.com/asset/new/pslider/product-slider-configuration.js,98,0,0
+1693906021295,86,https://m.boibazar.com/api/cart/,204,No Content,Thread Group 1-4,,true,,600,382,5,5,https://m.boibazar.com/api/cart/,0,0,71
+1693906021382,254,https://m.boibazar.com/api/cart/,200,OK,Thread Group 1-4,text,true,,771,625,5,5,https://m.boibazar.com/api/cart/,253,0,0
+1693906021638,14,https://m.boibazar.com/api/stock-check/5a82e345aa4811514da8c2e4,204,No Content,Thread Group 1-4,,true,,458,552,5,5,https://m.boibazar.com/api/stock-check/5a82e345aa4811514da8c2e4,0,0,0
+1693906021654,61,https://m.boibazar.com/api/stock-check/5a82e345aa4811514da8c2e4,200,OK,Thread Group 1-4,text,true,,619,648,5,5,https://m.boibazar.com/api/stock-check/5a82e345aa4811514da8c2e4,61,0,0
+1693906021716,9,https://m.boibazar.com/api/hit-update/misir-ali-unsolved,204,No Content,Thread Group 1-4,,true,,414,499,5,5,https://m.boibazar.com/api/hit-update/misir-ali-unsolved,0,0,0
+1693906021726,96,https://m.boibazar.com/api/hit-update/misir-ali-unsolved,200,OK,Thread Group 1-4,text,true,,618,716,5,5,https://m.boibazar.com/api/hit-update/misir-ali-unsolved,96,0,0
+1693906021825,602,https://m.boibazar.com/api/cart/,200,OK,Thread Group 1-4,text,true,,3213,1865,5,5,https://m.boibazar.com/api/cart/,602,0,0
+1693906004476,18023,https://m.boibazar.com/api/cart/,200,OK,Thread Group 1-2,text,true,,771,625,5,5,https://m.boibazar.com/api/cart/,18023,0,0
+1693906022499,8,https://m.boibazar.com/api/stock-check/5a82e345aa4811514da8c2e4,204,No Content,Thread Group 1-2,,true,,458,552,5,5,https://m.boibazar.com/api/stock-check/5a82e345aa4811514da8c2e4,0,0,0
+1693906022509,61,https://m.boibazar.com/api/stock-check/5a82e345aa4811514da8c2e4,200,OK,Thread Group 1-2,text,true,,619,648,5,5,https://m.boibazar.com/api/stock-check/5a82e345aa4811514da8c2e4,61,0,0
+1693906022572,8,https://m.boibazar.com/api/hit-update/misir-ali-unsolved,204,No Content,Thread Group 1-2,,true,,414,499,5,5,https://m.boibazar.com/api/hit-update/misir-ali-unsolved,0,0,0
+1693906022581,101,https://m.boibazar.com/api/hit-update/misir-ali-unsolved,200,OK,Thread Group 1-2,text,true,,618,716,5,5,https://m.boibazar.com/api/hit-update/misir-ali-unsolved,101,0,0
+1693906022683,1364,https://m.boibazar.com/api/cart/,200,OK,Thread Group 1-2,text,true,,3213,1865,5,5,https://m.boibazar.com/api/cart/,1364,0,0
+1693906017720,7371,https://m.boibazar.com/api/cart/,200,OK,Thread Group 1-3,text,true,,771,621,5,5,https://m.boibazar.com/api/cart/,7371,0,0
+1693906025093,21,https://m.boibazar.com/api/stock-check/5a82e345aa4811514da8c2e4,204,No Content,Thread Group 1-3,,true,,458,548,5,5,https://m.boibazar.com/api/stock-check/5a82e345aa4811514da8c2e4,0,0,0
+1693906021030,4277,https://m.boibazar.com/api/cart/,200,OK,Thread Group 1-1,text,true,,3213,1863,5,5,https://m.boibazar.com/api/cart/,4277,0,0
+1693906025115,216,https://m.boibazar.com/api/stock-check/5a82e345aa4811514da8c2e4,200,OK,Thread Group 1-3,text,true,,619,644,5,5,https://m.boibazar.com/api/stock-check/5a82e345aa4811514da8c2e4,216,0,0
+1693906025332,17,https://m.boibazar.com/api/hit-update/misir-ali-unsolved,204,No Content,Thread Group 1-3,,true,,414,495,5,5,https://m.boibazar.com/api/hit-update/misir-ali-unsolved,0,0,0
+1693906025350,84,https://m.boibazar.com/api/hit-update/misir-ali-unsolved,200,OK,Thread Group 1-3,text,true,,618,712,5,5,https://m.boibazar.com/api/hit-update/misir-ali-unsolved,84,0,0
+1693906010940,16327,https://www.boibazar.com/book/misir-ali-unsolved,200,"Embedded resource download error:https://www.googletagmanager.com/gtag/js?id=UA-116540278-1 code:Non HTTP response code: java.net.UnknownHostException message:Non HTTP response message: www.googletagmanager.com, https://www.googletagmanager.com/gtag/js?id=G-BMW5GE0L3F code:Non HTTP response code: java.net.UnknownHostException message:Non HTTP response message: No such host is known (www.googletagmanager.com), ",Thread Group 1-5,text,false,,2118419,74832,5,5,https://www.boibazar.com/book/misir-ali-unsolved,14051,0,0
+1693906010940,14184,https://www.boibazar.com/book/misir-ali-unsolved-0,200,OK,Thread Group 1-5,text,true,,230202,1080,5,5,https://www.boibazar.com/book/misir-ali-unsolved,14051,0,0
+1693906025157,11,https://www.boibazar.com/book/misir-ali-unsolved-1,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: www.googletagmanager.com,Thread Group 1-5,text,false,,2646,0,5,5,https://www.googletagmanager.com/gtag/js?id=UA-116540278-1,0,0,11
+1693906025157,11,https://www.boibazar.com/book/misir-ali-unsolved-2,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: No such host is known (www.googletagmanager.com),Thread Group 1-5,text,false,,2849,0,5,5,https://www.googletagmanager.com/gtag/js?id=G-BMW5GE0L3F,0,0,10
+1693906025160,26,https://www.boibazar.com/book/misir-ali-unsolved-3,200,OK,Thread Group 1-5,bin,true,,22953,1092,5,5,https://www.boibazar.com/asset/icon/android-icon-192x192.png,26,0,0
+1693906025161,76,https://www.boibazar.com/book/misir-ali-unsolved-4,200,OK,Thread Group 1-5,bin,true,,1779,1085,5,5,https://www.boibazar.com/asset/icon/favicon-32x32.png,76,0,64
+1693906025162,71,https://www.boibazar.com/book/misir-ali-unsolved-5,200,OK,Thread Group 1-5,bin,true,,5070,1085,5,5,https://www.boibazar.com/asset/icon/favicon-96x96.png,71,0,62
+1693906025161,69,https://www.boibazar.com/book/misir-ali-unsolved-6,200,OK,Thread Group 1-5,bin,true,,1016,1085,5,5,https://www.boibazar.com/asset/icon/favicon-16x16.png,69,0,61
+1693906025170,92,https://www.boibazar.com/book/misir-ali-unsolved-7,200,OK,Thread Group 1-5,text,true,,28400,512,5,5,https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css,82,0,55
+1693906025171,80,https://www.boibazar.com/book/misir-ali-unsolved-8,200,OK,Thread Group 1-5,text,true,,10505,1084,5,5,https://www.boibazar.com/asset/new/js/fingerprint.js,80,0,55
+1693906025191,150,https://www.boibazar.com/book/misir-ali-unsolved-9,200,OK,Thread Group 1-5,text,true,,87364,1081,5,5,https://www.boibazar.com/asset/js/jquery-3.3.1.js,88,0,54
+1693906025230,459,https://www.boibazar.com/book/misir-ali-unsolved-10,200,OK,Thread Group 1-5,text,true,,122182,506,5,5,https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css,80,0,34
+1693906025234,530,https://www.boibazar.com/book/misir-ali-unsolved-11,200,OK,Thread Group 1-5,text,true,,9800,1585,5,5,https://www.boibazar.com/asset/new/css/style3.css,100,0,62
+1693906025237,517,https://www.boibazar.com/book/misir-ali-unsolved-12,200,OK,Thread Group 1-5,text,true,,43806,544,5,5,https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.5/jquery.mCustomScrollbar.min.css,132,0,38
+1693906025253,2014,https://www.boibazar.com/book/misir-ali-unsolved-13,200,OK,Thread Group 1-5,text,true,,31905,512,5,5,https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css,348,0,57
+1693906025264,95,https://www.boibazar.com/book/misir-ali-unsolved-14,200,OK,Thread Group 1-5,text,true,,4641,1090,5,5,https://www.boibazar.com/asset/new/css/navbar-megamenu.css,95,0,81
+1693906025341,16,https://www.boibazar.com/book/misir-ali-unsolved-15,200,OK,Thread Group 1-5,text,true,,5139,1080,5,5,https://www.boibazar.com/asset/new/css/style.css,16,0,0
+1693906025357,13,https://www.boibazar.com/book/misir-ali-unsolved-16,200,OK,Thread Group 1-5,text,true,,525,1100,5,5,https://www.boibazar.com/asset/new/pslider/product-slider-custom.css,13,0,0
+1693906025359,21,https://www.boibazar.com/book/misir-ali-unsolved-17,200,OK,Thread Group 1-5,text,true,,2121,1085,5,5,https://www.boibazar.com/asset/css/jquery.eatoast.css,21,0,0
+1693906025370,34,https://www.boibazar.com/book/misir-ali-unsolved-18,200,OK,Thread Group 1-5,text,true,,31951,1083,5,5,https://www.boibazar.com/asset/sass/home/global.css,28,0,0
+1693906025380,31,https://www.boibazar.com/book/misir-ali-unsolved-19,200,OK,Thread Group 1-5,text,true,,2269,1079,5,5,https://www.boibazar.com/asset/new/css/head.css,31,0,0
+1693906025405,27,https://www.boibazar.com/book/misir-ali-unsolved-20,200,OK,Thread Group 1-5,text,true,,7995,1092,5,5,https://www.boibazar.com/asset/sass/home/product-details.css,27,0,0
+1693906025412,21,https://www.boibazar.com/book/misir-ali-unsolved-21,200,OK,Thread Group 1-5,bin,true,,910,1084,5,5,https://www.boibazar.com/asset/images/Home-48X48.png,21,0,0
+1693906025433,11,https://www.boibazar.com/book/misir-ali-unsolved-22,200,OK,Thread Group 1-5,bin,true,,7406,1091,5,5,https://www.boibazar.com/asset/images/Track-Order-48X48.png,11,0,0
+1693906025433,8,https://www.boibazar.com/book/misir-ali-unsolved-23,200,OK,Thread Group 1-5,bin,true,,835,1090,5,5,https://www.boibazar.com/asset/images/Categories-48X48.png,8,0,0
+1693906025442,9,https://www.boibazar.com/book/misir-ali-unsolved-24,200,OK,Thread Group 1-5,bin,true,,788,1087,5,5,https://www.boibazar.com/asset/images/Authors-48X48.png,9,0,0
+1693906025444,7,https://www.boibazar.com/book/misir-ali-unsolved-25,200,OK,Thread Group 1-5,bin,true,,870,1090,5,5,https://www.boibazar.com/asset/images/Publishers-48X48.png,7,0,0
+1693906025452,6,https://www.boibazar.com/book/misir-ali-unsolved-26,200,OK,Thread Group 1-5,bin,true,,1207,1084,5,5,https://www.boibazar.com/asset/images/Blog-48X48.png,6,0,0
+1693906025452,7,https://www.boibazar.com/book/misir-ali-unsolved-27,200,OK,Thread Group 1-5,bin,true,,1116,1088,5,5,https://www.boibazar.com/asset/images/About-us-48X48.png,7,0,0
+1693906025458,232,https://www.boibazar.com/book/misir-ali-unsolved-28,200,OK,Thread Group 1-5,bin,true,,1060,1090,5,5,https://www.boibazar.com/asset/images/Contact-us-48X48.png,232,0,0
+1693906025460,127,https://www.boibazar.com/book/misir-ali-unsolved-29,200,OK,Thread Group 1-5,text,true,,8797,1081,5,5,https://www.boibazar.com/asset/new/css/header.css,127,0,0
+1693906025588,21,https://www.boibazar.com/book/misir-ali-unsolved-30,200,OK,Thread Group 1-5,bin,true,,7871,1081,5,5,https://www.boibazar.com/asset/images/logo_bn.png,21,0,0
+1693906025610,9,https://www.boibazar.com/book/misir-ali-unsolved-31,200,OK,Thread Group 1-5,bin,true,,8594,1087,5,5,https://www.boibazar.com/asset/images/sign-in-48X48.png,9,0,0
+1693906025620,19,https://www.boibazar.com/book/misir-ali-unsolved-32,200,OK,Thread Group 1-5,bin,true,,28560,1087,5,5,https://www.boibazar.com/asset/images/search_loader.gif,14,0,0
+1693906025639,7,https://www.boibazar.com/book/misir-ali-unsolved-33,200,OK,Thread Group 1-5,bin,true,,1353,1087,5,5,https://www.boibazar.com/asset/images/search_button.png,7,0,0
+1693906025647,10,https://www.boibazar.com/book/misir-ali-unsolved-34,200,OK,Thread Group 1-5,bin,true,,1157,1085,5,5,https://www.boibazar.com/asset/images/cartIconWeb.png,10,0,0
+1693906025658,17,https://www.boibazar.com/book/misir-ali-unsolved-35,200,OK,Thread Group 1-5,bin,true,,27398,1080,5,5,https://www.boibazar.com/asset/images/loader.gif,14,0,0
+1693906025675,71,https://www.boibazar.com/book/misir-ali-unsolved-36,200,OK,Thread Group 1-5,bin,true,,94830,1089,5,5,https://www.boibazar.com/asset/images/popup_20210318c.png,17,0,0
+1693906025691,98,https://www.boibazar.com/book/misir-ali-unsolved-37,200,OK,Thread Group 1-5,bin,true,,75099,1089,5,5,https://www.boibazar.com/asset/images/popup_20210318m.png,43,0,0
+1693906025691,73,https://www.boibazar.com/book/misir-ali-unsolved-38,304,Not Modified,Thread Group 1-5,,true,,303,1124,5,5,https://www.boibazar.com/asset/images/book-no-photo.jpg,0,0,62
+1693906025746,14,https://www.boibazar.com/book/misir-ali-unsolved-39,304,Not Modified,Thread Group 1-5,,true,,302,1120,5,5,https://www.boibazar.com/asset/images/read-more.png,0,0,0
+1693906025756,60,https://www.boibazar.com/book/misir-ali-unsolved-40,200,OK,Thread Group 1-5,bin,true,,6241,1085,5,5,https://www.boibazar.com/asset/images/add-to-cart.png,60,0,43
+1693906025762,778,https://www.boibazar.com/book/misir-ali-unsolved-41,200,OK,Thread Group 1-5,bin,true,,198064,518,5,5,https://d1jpltibqvso3j.cloudfront.net/images/author/39000/38904/250X360/38904.png,164,0,100
+1693906025765,454,https://www.boibazar.com/book/misir-ali-unsolved-42,200,OK,Thread Group 1-5,text,true,,31940,519,5,5,https://d1jpltibqvso3j.cloudfront.net/images/product/23000/22980/250X360/22980.png,304,0,113
+1693906025765,57,https://www.boibazar.com/book/misir-ali-unsolved-43,200,OK,Thread Group 1-5,bin,true,,1950,1083,5,5,https://www.boibazar.com/asset/images/cart-icon.png,57,0,43
+1693906025789,38,https://www.boibazar.com/book/misir-ali-unsolved-44,200,OK,Thread Group 1-5,bin,true,,37850,1086,5,5,https://www.boibazar.com/asset/images/payment-icon.jpg,28,0,0
+1693906025817,19,https://www.boibazar.com/book/misir-ali-unsolved-45,200,OK,Thread Group 1-5,bin,true,,23386,1091,5,5,https://www.boibazar.com/asset/images/loading_spinner_2.gif,18,0,0
+1693906025824,1051,https://www.boibazar.com/book/misir-ali-unsolved-46,204,No Content,Thread Group 1-5,,true,,80,537,5,5,https://seal.godaddy.com/getSeal?sealID=aswDU2elfOSa6U3nivsxeRKUzkqm2YnsXyW4aUrpRC0vsq13nZn2PQhLo4EH,0,0,768
+1693906025828,8,https://www.boibazar.com/book/misir-ali-unsolved-47,200,OK,Thread Group 1-5,bin,true,,927,1093,5,5,https://www.boibazar.com/asset/images/homeAssets/cartIcon.png,8,0,0
+1693906025837,5,https://www.boibazar.com/book/misir-ali-unsolved-48,200,OK,Thread Group 1-5,bin,true,,665,1093,5,5,https://www.boibazar.com/asset/images/homeAssets/helpInfo.png,5,0,0
+1693906025837,79,https://www.boibazar.com/book/misir-ali-unsolved-49,200,OK,Thread Group 1-5,text,true,,93543,1086,5,5,https://www.boibazar.com/asset/js/jquery-1.10.2.min.js,16,0,0
+1693906025843,175,https://www.boibazar.com/book/misir-ali-unsolved-50,200,OK,Thread Group 1-5,text,true,,240865,1082,5,5,https://www.boibazar.com/asset/js/jquery-ui.min.js,26,0,0
+1693906025916,79,https://www.boibazar.com/book/misir-ali-unsolved-51,200,OK,Thread Group 1-5,text,true,,97602,1079,5,5,https://www.boibazar.com/asset/js/jquery.min.js,25,0,0
+1693906025996,27,https://www.boibazar.com/book/misir-ali-unsolved-52,200,OK,Thread Group 1-5,text,true,,28263,1082,5,5,https://www.boibazar.com/asset/js/bootstrap.min.js,20,0,0
+1693906026021,33,https://www.boibazar.com/book/misir-ali-unsolved-53,200,OK,Thread Group 1-5,text,true,,45915,1103,5,5,https://www.boibazar.com/asset/js/jquery.mCustomScrollbar.concat.min.js,25,0,0
+1693906026024,24,https://www.boibazar.com/book/misir-ali-unsolved-54,200,OK,Thread Group 1-5,text,true,,1713,1087,5,5,https://www.boibazar.com/asset/new/js/mobile-sidebar.js,24,0,0
+1693906026051,122,https://www.boibazar.com/book/misir-ali-unsolved-55,200,OK,Thread Group 1-5,text,true,,25377,1592,5,5,https://www.boibazar.com/asset/new/pslider/css/wpcs-styles.css,11,0,0
+1693906026055,12,https://www.boibazar.com/book/misir-ali-unsolved-56,200,OK,Thread Group 1-5,text,true,,4619,1095,5,5,https://www.boibazar.com/asset/new/pslider/css/owl.carousel.css,12,0,0
+1693906026075,7,https://www.boibazar.com/book/misir-ali-unsolved-57,200,OK,Thread Group 1-5,text,true,,1773,1100,5,5,https://www.boibazar.com/asset/new/pslider/css/owl.theme.default.css,7,0,0
+1693906026084,246,https://www.boibazar.com/book/misir-ali-unsolved-58,200,OK,Thread Group 1-5,text,true,,6580,1084,5,5,https://www.boibazar.com/asset/AjaxAssetJs/config.js,246,0,0
+1693906026174,45,https://www.boibazar.com/book/misir-ali-unsolved-59,200,OK,Thread Group 1-5,text,true,,5536,1083,5,5,https://www.boibazar.com/asset/js/jquery.eatoast.js,45,0,0
+1693906026219,19,https://www.boibazar.com/book/misir-ali-unsolved-60,200,OK,Thread Group 1-5,text,true,,8841,1084,5,5,https://www.boibazar.com/asset/AjaxAssetJs/signup.js,19,0,0
+1693906026220,22,https://www.boibazar.com/book/misir-ali-unsolved-61,200,OK,Thread Group 1-5,text,true,,9496,1084,5,5,https://www.boibazar.com/asset/AjaxAssetJs/signin.js,22,0,0
+1693906026239,50,https://www.boibazar.com/book/misir-ali-unsolved-62,200,OK,Thread Group 1-5,text,true,,38043,1082,5,5,https://www.boibazar.com/asset/AjaxAssetJs/cart.js,21,0,0
+1693906026243,13,https://www.boibazar.com/book/misir-ali-unsolved-63,200,OK,Thread Group 1-5,text,true,,15192,1090,5,5,https://www.boibazar.com/asset/AjaxAssetJs/commonScript.js,13,0,0
+1693906026257,33,https://www.boibazar.com/book/misir-ali-unsolved-64,200,OK,Thread Group 1-5,text,true,,25379,1084,5,5,https://www.boibazar.com/asset/AjaxAssetJs/search.js,14,0,0
+1693906026291,8,https://www.boibazar.com/book/misir-ali-unsolved-65,200,OK,Thread Group 1-5,text,true,,5311,1085,5,5,https://www.boibazar.com/asset/AjaxAssetJs/pageing.js,8,0,0
+1693906026291,80,https://www.boibazar.com/book/misir-ali-unsolved-66,200,OK,Thread Group 1-5,text,true,,1359,1089,5,5,https://www.boibazar.com/asset/AjaxAssetJs/searchPagin.js,80,0,65
+1693906026299,691,https://www.boibazar.com/book/misir-ali-unsolved-67,200,OK,Thread Group 1-5,text,true,,94215,510,5,5,https://scripts.pay.bka.sh/versions/1.2.0-beta/checkout/bKash-checkout.js,470,0,104
+1693906026334,44,https://www.boibazar.com/book/misir-ali-unsolved-68,200,OK,Thread Group 1-5,text,true,,36560,1086,5,5,https://www.boibazar.com/asset/AjaxAssetJs/prod_det.js,20,0,0
+1693906026372,69,https://www.boibazar.com/book/misir-ali-unsolved-69,200,OK,Thread Group 1-5,text,true,,50678,1096,5,5,https://www.boibazar.com/asset/new/js/jssor.slider-27.4.0.min.js,21,0,0
+1693906026378,16,https://www.boibazar.com/book/misir-ali-unsolved-70,200,OK,Thread Group 1-5,text,true,,2725,1090,5,5,https://www.boibazar.com/asset/new/js/jssor-main-slider.js,16,0,0
+1693906026395,79,https://www.boibazar.com/book/misir-ali-unsolved-71,200,OK,Thread Group 1-5,text,true,,43207,1097,5,5,https://www.boibazar.com/asset/new/pslider/js/owl.carousel.min.js,45,0,0
+1693906026442,33,https://www.boibazar.com/book/misir-ali-unsolved-72,200,OK,Thread Group 1-5,text,true,,604,1097,5,5,https://www.boibazar.com/asset/new/pslider/js/custom.js?ver=1.3.3,33,0,0
+1693906026475,19,https://www.boibazar.com/book/misir-ali-unsolved-73,200,OK,Thread Group 1-5,text,true,,10346,1106,5,5,https://www.boibazar.com/asset/new/pslider/product-slider-configuration.js,19,0,0
+1693906027290,67,https://m.boibazar.com/api/cart/,204,No Content,Thread Group 1-5,,true,,596,382,5,5,https://m.boibazar.com/api/cart/,0,0,60
+1693906025308,2521,https://www.boibazar.com/similar-book/misir-ali-unsolved,500,Internal Server Error,Thread Group 1-1,text,false,,1709,1075,5,5,https://www.boibazar.com/similar-book/misir-ali-unsolved,2520,0,62
+1693906022429,5667,https://www.boibazar.com/similar-book/misir-ali-unsolved,500,Internal Server Error,Thread Group 1-4,text,false,,1707,1075,5,5,https://www.boibazar.com/similar-book/misir-ali-unsolved,5666,0,41
+1693906027359,743,https://m.boibazar.com/api/cart/,200,OK,Thread Group 1-5,text,true,,771,621,5,5,https://m.boibazar.com/api/cart/,743,0,0
+1693906028103,13,https://m.boibazar.com/api/stock-check/5a82e345aa4811514da8c2e4,204,No Content,Thread Group 1-5,,true,,458,548,5,5,https://m.boibazar.com/api/stock-check/5a82e345aa4811514da8c2e4,0,0,0
+1693906028098,2185,https://www.boibazar.com/billingcart,200,"Embedded resource download error:https://www.googletagmanager.com/gtag/js?id=UA-116540278-1 code:Non HTTP response code: java.net.UnknownHostException message:Non HTTP response message: www.googletagmanager.com, https://www.googletagmanager.com/gtag/js?id=G-BMW5GE0L3F code:Non HTTP response code: java.net.UnknownHostException message:Non HTTP response message: www.googletagmanager.com, ",Thread Group 1-4,text,false,,174994,65829,5,5,https://www.boibazar.com/billingcart,783,0,74
+1693906028098,845,https://www.boibazar.com/billingcart-0,200,OK,Thread Group 1-4,text,true,,145867,1070,5,5,https://www.boibazar.com/billingcart,783,0,74
+1693906029010,0,https://www.boibazar.com/billingcart-1,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: www.googletagmanager.com,Thread Group 1-4,text,false,,2563,0,5,5,https://www.googletagmanager.com/gtag/js?id=UA-116540278-1,0,0,0
+1693906029011,1,https://www.boibazar.com/billingcart-2,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: www.googletagmanager.com,Thread Group 1-4,text,false,,2563,0,5,5,https://www.googletagmanager.com/gtag/js?id=G-BMW5GE0L3F,0,0,1
+1693906029013,33,https://www.boibazar.com/billingcart-3,304,Not Modified,Thread Group 1-4,,true,,302,1177,5,5,https://www.boibazar.com/asset/icon/android-icon-192x192.png,0,0,0
+1693906029011,82,https://www.boibazar.com/billingcart-4,304,Not Modified,Thread Group 1-4,,true,,302,1169,5,5,https://www.boibazar.com/asset/icon/favicon-32x32.png,0,0,58
+1693906029016,144,https://www.boibazar.com/billingcart-5,304,Not Modified,Thread Group 1-4,,true,,303,1170,5,5,https://www.boibazar.com/asset/icon/favicon-96x96.png,0,0,132
+1693906029016,147,https://www.boibazar.com/billingcart-6,304,Not Modified,Thread Group 1-4,,true,,302,1169,5,5,https://www.boibazar.com/asset/icon/favicon-16x16.png,0,0,134
+1693906029015,71,https://www.boibazar.com/billingcart-7,304,Not Modified,Thread Group 1-4,,true,,864,562,5,5,https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css,0,0,0
+1693906029022,111,https://www.boibazar.com/billingcart-8,304,Not Modified,Thread Group 1-4,,true,,301,1169,5,5,https://www.boibazar.com/asset/new/js/fingerprint.js,0,0,97
+1693906029047,114,https://www.boibazar.com/billingcart-9,304,Not Modified,Thread Group 1-4,,true,,302,1167,5,5,https://www.boibazar.com/asset/js/jquery-3.3.1.js,0,0,101
+1693906029103,45,https://www.boibazar.com/billingcart-10,304,Not Modified,Thread Group 1-4,,true,,888,556,5,5,https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css,0,0,0
+1693906029103,64,https://www.boibazar.com/billingcart-11,304,Not Modified,Thread Group 1-4,,true,,300,1165,5,5,https://www.boibazar.com/asset/new/css/style3.css,0,0,50
+1693906029134,27,https://www.boibazar.com/billingcart-12,304,Not Modified,Thread Group 1-4,,true,,887,627,5,5,https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.5/jquery.mCustomScrollbar.min.css,0,0,0
+1693906029149,24,https://www.boibazar.com/billingcart-13,304,Not Modified,Thread Group 1-4,,true,,835,562,5,5,https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css,0,0,0
+1693906029160,11,https://www.boibazar.com/billingcart-14,304,Not Modified,Thread Group 1-4,,true,,300,1175,5,5,https://www.boibazar.com/asset/new/css/navbar-megamenu.css,0,0,0
+1693906029161,14,https://www.boibazar.com/billingcart-15,304,Not Modified,Thread Group 1-4,,true,,300,1165,5,5,https://www.boibazar.com/asset/new/css/style.css,0,0,0
+1693906029161,12,https://www.boibazar.com/billingcart-16,304,Not Modified,Thread Group 1-4,,true,,298,1183,5,5,https://www.boibazar.com/asset/new/pslider/product-slider-custom.css,0,0,0
+1693906029164,11,https://www.boibazar.com/billingcart-17,304,Not Modified,Thread Group 1-4,,true,,299,1169,5,5,https://www.boibazar.com/asset/css/jquery.eatoast.css,0,0,0
+1693906029171,18,https://www.boibazar.com/billingcart-18,304,Not Modified,Thread Group 1-4,,true,,300,1168,5,5,https://www.boibazar.com/asset/sass/home/global.css,0,0,0
+1693906029172,18,https://www.boibazar.com/billingcart-19,304,Not Modified,Thread Group 1-4,,true,,299,1163,5,5,https://www.boibazar.com/asset/new/css/head.css,0,0,0
+1693906029174,26,https://www.boibazar.com/billingcart-20,200,OK,Thread Group 1-4,text,true,,2333,1087,5,5,https://www.boibazar.com/asset/sass/home/cart-billing.css,26,0,0
+1693906029174,16,https://www.boibazar.com/billingcart-21,304,Not Modified,Thread Group 1-4,,true,,301,1168,5,5,https://www.boibazar.com/asset/images/Home-48X48.png,0,0,0
+1693906029175,28,https://www.boibazar.com/billingcart-22,304,Not Modified,Thread Group 1-4,,true,,302,1176,5,5,https://www.boibazar.com/asset/images/Track-Order-48X48.png,0,0,0
+1693906029175,90,https://www.boibazar.com/billingcart-23,304,Not Modified,Thread Group 1-4,,true,,302,1174,5,5,https://www.boibazar.com/asset/images/Categories-48X48.png,0,0,77
+1693906029192,24,https://www.boibazar.com/billingcart-24,304,Not Modified,Thread Group 1-4,,true,,301,1171,5,5,https://www.boibazar.com/asset/images/Authors-48X48.png,0,0,0
+1693906029192,25,https://www.boibazar.com/billingcart-25,304,Not Modified,Thread Group 1-4,,true,,301,1174,5,5,https://www.boibazar.com/asset/images/Publishers-48X48.png,0,0,0
+1693906029193,89,https://www.boibazar.com/billingcart-26,304,Not Modified,Thread Group 1-4,,true,,302,1168,5,5,https://www.boibazar.com/asset/images/Blog-48X48.png,0,0,75
+1693906029203,81,https://www.boibazar.com/billingcart-27,304,Not Modified,Thread Group 1-4,,true,,302,1172,5,5,https://www.boibazar.com/asset/images/About-us-48X48.png,0,0,67
+1693906029204,42,https://www.boibazar.com/billingcart-28,304,Not Modified,Thread Group 1-4,,true,,301,1174,5,5,https://www.boibazar.com/asset/images/Contact-us-48X48.png,0,0,0
+1693906029217,48,https://www.boibazar.com/billingcart-29,304,Not Modified,Thread Group 1-4,,true,,300,1166,5,5,https://www.boibazar.com/asset/new/css/header.css,0,0,0
+1693906029218,59,https://www.boibazar.com/billingcart-30,304,Not Modified,Thread Group 1-4,,true,,302,1166,5,5,https://www.boibazar.com/asset/images/logo_bn.png,0,0,0
+1693906029249,65,https://www.boibazar.com/billingcart-31,304,Not Modified,Thread Group 1-4,,true,,303,1172,5,5,https://www.boibazar.com/asset/images/sign-in-48X48.png,0,0,50
+1693906029266,11,https://www.boibazar.com/billingcart-32,304,Not Modified,Thread Group 1-4,,true,,302,1172,5,5,https://www.boibazar.com/asset/images/search_loader.gif,0,0,0
+1693906029266,16,https://www.boibazar.com/billingcart-33,304,Not Modified,Thread Group 1-4,,true,,301,1171,5,5,https://www.boibazar.com/asset/images/search_button.png,0,0,0
+1693906029279,18,https://www.boibazar.com/billingcart-34,304,Not Modified,Thread Group 1-4,,true,,301,1169,5,5,https://www.boibazar.com/asset/images/cartIconWeb.png,0,0,0
+1693906029280,12,https://www.boibazar.com/billingcart-35,304,Not Modified,Thread Group 1-4,,true,,302,1165,5,5,https://www.boibazar.com/asset/images/loader.gif,0,0,0
+1693906029283,116,https://www.boibazar.com/billingcart-36,304,Not Modified,Thread Group 1-4,,true,,304,1175,5,5,https://www.boibazar.com/asset/images/popup_20210318c.png,0,0,104
+1693906029288,19,https://www.boibazar.com/billingcart-37,304,Not Modified,Thread Group 1-4,,true,,303,1175,5,5,https://www.boibazar.com/asset/images/popup_20210318m.png,0,0,0
+1693906029289,98,https://www.boibazar.com/billingcart-38,304,Not Modified,Thread Group 1-4,,true,,303,1171,5,5,https://www.boibazar.com/asset/images/payment-icon.jpg,0,0,82
+1693906029293,990,https://www.boibazar.com/billingcart-39,204,No Content,Thread Group 1-4,,true,,80,537,5,5,https://seal.godaddy.com/getSeal?sealID=aswDU2elfOSa6U3nivsxeRKUzkqm2YnsXyW4aUrpRC0vsq13nZn2PQhLo4EH,0,0,743
+1693906029298,126,https://www.boibazar.com/billingcart-40,304,Not Modified,Thread Group 1-4,,true,,302,1177,5,5,https://www.boibazar.com/asset/images/homeAssets/cartIcon.png,0,0,117
+1693906029308,25,https://www.boibazar.com/billingcart-41,304,Not Modified,Thread Group 1-4,,true,,301,1177,5,5,https://www.boibazar.com/asset/images/homeAssets/helpInfo.png,0,0,0
+1693906029317,112,https://www.boibazar.com/billingcart-42,304,Not Modified,Thread Group 1-4,,true,,302,1172,5,5,https://www.boibazar.com/asset/js/jquery-1.10.2.min.js,0,0,102
+1693906029352,11,https://www.boibazar.com/billingcart-43,304,Not Modified,Thread Group 1-4,,true,,301,1168,5,5,https://www.boibazar.com/asset/js/jquery-ui.min.js,0,0,0
+1693906029368,49,https://www.boibazar.com/billingcart-44,304,Not Modified,Thread Group 1-4,,true,,302,1165,5,5,https://www.boibazar.com/asset/js/jquery.min.js,0,0,41
+1693906029387,23,https://www.boibazar.com/billingcart-45,304,Not Modified,Thread Group 1-4,,true,,300,1167,5,5,https://www.boibazar.com/asset/js/bootstrap.min.js,0,0,0
+1693906029402,24,https://www.boibazar.com/billingcart-46,304,Not Modified,Thread Group 1-4,,true,,300,1188,5,5,https://www.boibazar.com/asset/js/jquery.mCustomScrollbar.concat.min.js,0,0,0
+1693906029410,25,https://www.boibazar.com/billingcart-47,304,Not Modified,Thread Group 1-4,,true,,299,1171,5,5,https://www.boibazar.com/asset/new/js/mobile-sidebar.js,0,0,0
+1693906029418,17,https://www.boibazar.com/billingcart-48,304,Not Modified,Thread Group 1-4,,true,,300,1179,5,5,https://www.boibazar.com/asset/new/pslider/css/wpcs-styles.css,0,0,0
+1693906029424,12,https://www.boibazar.com/billingcart-49,304,Not Modified,Thread Group 1-4,,true,,300,1180,5,5,https://www.boibazar.com/asset/new/pslider/css/owl.carousel.css,0,0,0
+1693906029427,17,https://www.boibazar.com/billingcart-50,304,Not Modified,Thread Group 1-4,,true,,299,1184,5,5,https://www.boibazar.com/asset/new/pslider/css/owl.theme.default.css,0,0,0
+1693906029430,17,https://www.boibazar.com/billingcart-51,304,Not Modified,Thread Group 1-4,,true,,300,1169,5,5,https://www.boibazar.com/asset/AjaxAssetJs/config.js,0,0,0
+1693906029436,17,https://www.boibazar.com/billingcart-52,304,Not Modified,Thread Group 1-4,,true,,300,1168,5,5,https://www.boibazar.com/asset/js/jquery.eatoast.js,0,0,0
+1693906029436,28,https://www.boibazar.com/billingcart-53,304,Not Modified,Thread Group 1-4,,true,,300,1169,5,5,https://www.boibazar.com/asset/AjaxAssetJs/signup.js,0,0,0
+1693906029436,59,https://www.boibazar.com/billingcart-54,304,Not Modified,Thread Group 1-4,,true,,301,1169,5,5,https://www.boibazar.com/asset/AjaxAssetJs/signin.js,0,0,44
+1693906029445,77,https://www.boibazar.com/billingcart-55,304,Not Modified,Thread Group 1-4,,true,,301,1167,5,5,https://www.boibazar.com/asset/AjaxAssetJs/cart.js,0,0,70
+1693906029447,85,https://www.boibazar.com/billingcart-56,304,Not Modified,Thread Group 1-4,,true,,301,1175,5,5,https://www.boibazar.com/asset/AjaxAssetJs/commonScript.js,0,0,74
+1693906029453,23,https://www.boibazar.com/billingcart-57,304,Not Modified,Thread Group 1-4,,true,,300,1169,5,5,https://www.boibazar.com/asset/AjaxAssetJs/search.js,0,0,0
+1693906029465,51,https://www.boibazar.com/billingcart-58,304,Not Modified,Thread Group 1-4,,true,,300,1170,5,5,https://www.boibazar.com/asset/AjaxAssetJs/pageing.js,0,0,0
+1693906029477,31,https://www.boibazar.com/billingcart-59,304,Not Modified,Thread Group 1-4,,true,,299,1173,5,5,https://www.boibazar.com/asset/AjaxAssetJs/searchPagin.js,0,0,0
+1693906029499,28,https://www.boibazar.com/billingcart-60,200,OK,Thread Group 1-4,text,true,,2765,1083,5,5,https://www.boibazar.com/asset/AjaxAssetJs/billing.js,28,0,0
+1693906027834,2517,https://www.boibazar.com/billingcart,200,"Embedded resource download error:https://www.googletagmanager.com/gtag/js?id=UA-116540278-1 code:Non HTTP response code: java.net.UnknownHostException message:Non HTTP response message: www.googletagmanager.com, https://www.googletagmanager.com/gtag/js?id=G-BMW5GE0L3F code:Non HTTP response code: java.net.UnknownHostException message:Non HTTP response message: www.googletagmanager.com, ",Thread Group 1-1,text,false,,174992,65725,5,5,https://www.boibazar.com/billingcart,744,0,40
+1693906027834,1104,https://www.boibazar.com/billingcart-0,200,OK,Thread Group 1-1,text,true,,145865,1072,5,5,https://www.boibazar.com/billingcart,744,0,40
+1693906029016,33,https://www.boibazar.com/billingcart-1,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: www.googletagmanager.com,Thread Group 1-1,text,false,,2563,0,5,5,https://www.googletagmanager.com/gtag/js?id=UA-116540278-1,0,0,33
+1693906029015,34,https://www.boibazar.com/billingcart-2,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: www.googletagmanager.com,Thread Group 1-1,text,false,,2563,0,5,5,https://www.googletagmanager.com/gtag/js?id=G-BMW5GE0L3F,0,0,34
+1693906029015,46,https://www.boibazar.com/billingcart-3,304,Not Modified,Thread Group 1-1,,true,,302,1175,5,5,https://www.boibazar.com/asset/icon/android-icon-192x192.png,0,0,0
+1693906029014,33,https://www.boibazar.com/billingcart-4,304,Not Modified,Thread Group 1-1,,true,,301,1167,5,5,https://www.boibazar.com/asset/icon/favicon-32x32.png,0,0,0
+1693906029014,120,https://www.boibazar.com/billingcart-5,304,Not Modified,Thread Group 1-1,,true,,303,1168,5,5,https://www.boibazar.com/asset/icon/favicon-96x96.png,0,0,107
+1693906029015,152,https://www.boibazar.com/billingcart-6,304,Not Modified,Thread Group 1-1,,true,,302,1167,5,5,https://www.boibazar.com/asset/icon/favicon-16x16.png,0,0,138
+1693906029048,85,https://www.boibazar.com/billingcart-7,304,Not Modified,Thread Group 1-1,,true,,864,562,5,5,https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css,0,0,50
+1693906029050,117,https://www.boibazar.com/billingcart-8,304,Not Modified,Thread Group 1-1,,true,,301,1167,5,5,https://www.boibazar.com/asset/new/js/fingerprint.js,0,0,104
+1693906029051,153,https://www.boibazar.com/billingcart-9,304,Not Modified,Thread Group 1-1,,true,,302,1165,5,5,https://www.boibazar.com/asset/js/jquery-3.3.1.js,0,0,141
+1693906029063,89,https://www.boibazar.com/billingcart-10,304,Not Modified,Thread Group 1-1,,true,,888,556,5,5,https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css,0,0,70
+1693906029136,15,https://www.boibazar.com/billingcart-11,304,Not Modified,Thread Group 1-1,,true,,299,1163,5,5,https://www.boibazar.com/asset/new/css/style3.css,0,0,0
+1693906029137,53,https://www.boibazar.com/billingcart-12,304,Not Modified,Thread Group 1-1,,true,,887,627,5,5,https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.5/jquery.mCustomScrollbar.min.css,0,0,33
+1693906029151,20,https://www.boibazar.com/billingcart-13,304,Not Modified,Thread Group 1-1,,true,,835,562,5,5,https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css,0,0,0
+1693906029152,15,https://www.boibazar.com/billingcart-14,304,Not Modified,Thread Group 1-1,,true,,300,1173,5,5,https://www.boibazar.com/asset/new/css/navbar-megamenu.css,0,0,0
+1693906029167,8,https://www.boibazar.com/billingcart-15,304,Not Modified,Thread Group 1-1,,true,,300,1163,5,5,https://www.boibazar.com/asset/new/css/style.css,0,0,0
+1693906029168,21,https://www.boibazar.com/billingcart-16,304,Not Modified,Thread Group 1-1,,true,,298,1181,5,5,https://www.boibazar.com/asset/new/pslider/product-slider-custom.css,0,0,0
+1693906029170,20,https://www.boibazar.com/billingcart-17,304,Not Modified,Thread Group 1-1,,true,,299,1167,5,5,https://www.boibazar.com/asset/css/jquery.eatoast.css,0,0,0
+1693906029172,20,https://www.boibazar.com/billingcart-18,304,Not Modified,Thread Group 1-1,,true,,300,1166,5,5,https://www.boibazar.com/asset/sass/home/global.css,0,0,0
+1693906029176,32,https://www.boibazar.com/billingcart-19,304,Not Modified,Thread Group 1-1,,true,,299,1161,5,5,https://www.boibazar.com/asset/new/css/head.css,0,0,0
+1693906029192,14,https://www.boibazar.com/billingcart-20,200,OK,Thread Group 1-1,text,true,,2333,1085,5,5,https://www.boibazar.com/asset/sass/home/cart-billing.css,14,0,0
+1693906029193,83,https://www.boibazar.com/billingcart-21,304,Not Modified,Thread Group 1-1,,true,,302,1166,5,5,https://www.boibazar.com/asset/images/Home-48X48.png,0,0,68
+1693906029193,79,https://www.boibazar.com/billingcart-22,304,Not Modified,Thread Group 1-1,,true,,303,1174,5,5,https://www.boibazar.com/asset/images/Track-Order-48X48.png,0,0,68
+1693906029193,72,https://www.boibazar.com/billingcart-23,304,Not Modified,Thread Group 1-1,,true,,302,1172,5,5,https://www.boibazar.com/asset/images/Categories-48X48.png,0,0,59
+1693906029205,17,https://www.boibazar.com/billingcart-24,304,Not Modified,Thread Group 1-1,,true,,301,1169,5,5,https://www.boibazar.com/asset/images/Authors-48X48.png,0,0,0
+1693906029207,39,https://www.boibazar.com/billingcart-25,304,Not Modified,Thread Group 1-1,,true,,301,1172,5,5,https://www.boibazar.com/asset/images/Publishers-48X48.png,0,0,0
+1693906029210,87,https://www.boibazar.com/billingcart-26,304,Not Modified,Thread Group 1-1,,true,,302,1166,5,5,https://www.boibazar.com/asset/images/Blog-48X48.png,0,0,71
+1693906029222,141,https://www.boibazar.com/billingcart-27,304,Not Modified,Thread Group 1-1,,true,,302,1170,5,5,https://www.boibazar.com/asset/images/About-us-48X48.png,0,0,128
+1693906029250,111,https://www.boibazar.com/billingcart-28,304,Not Modified,Thread Group 1-1,,true,,302,1172,5,5,https://www.boibazar.com/asset/images/Contact-us-48X48.png,0,0,99
+1693906029266,97,https://www.boibazar.com/billingcart-29,304,Not Modified,Thread Group 1-1,,true,,301,1164,5,5,https://www.boibazar.com/asset/new/css/header.css,0,0,84
+1693906029272,40,https://www.boibazar.com/billingcart-30,304,Not Modified,Thread Group 1-1,,true,,302,1164,5,5,https://www.boibazar.com/asset/images/logo_bn.png,0,0,0
+1693906029277,10,https://www.boibazar.com/billingcart-31,304,Not Modified,Thread Group 1-1,,true,,302,1170,5,5,https://www.boibazar.com/asset/images/sign-in-48X48.png,0,0,0
+1693906029288,111,https://www.boibazar.com/billingcart-32,304,Not Modified,Thread Group 1-1,,true,,303,1170,5,5,https://www.boibazar.com/asset/images/search_loader.gif,0,0,94
+1693906029297,79,https://www.boibazar.com/billingcart-33,304,Not Modified,Thread Group 1-1,,true,,302,1169,5,5,https://www.boibazar.com/asset/images/search_button.png,0,0,61
+1693906029315,57,https://www.boibazar.com/billingcart-34,304,Not Modified,Thread Group 1-1,,true,,301,1167,5,5,https://www.boibazar.com/asset/images/cartIconWeb.png,0,0,0
+1693906029365,9,https://www.boibazar.com/billingcart-35,304,Not Modified,Thread Group 1-1,,true,,302,1163,5,5,https://www.boibazar.com/asset/images/loader.gif,0,0,0
+1693906029366,10,https://www.boibazar.com/billingcart-36,304,Not Modified,Thread Group 1-1,,true,,303,1173,5,5,https://www.boibazar.com/asset/images/popup_20210318c.png,0,0,0
+1693906029367,11,https://www.boibazar.com/billingcart-37,304,Not Modified,Thread Group 1-1,,true,,303,1173,5,5,https://www.boibazar.com/asset/images/popup_20210318m.png,0,0,0
+1693906029374,13,https://www.boibazar.com/billingcart-38,304,Not Modified,Thread Group 1-1,,true,,302,1169,5,5,https://www.boibazar.com/asset/images/payment-icon.jpg,0,0,0
+1693906029376,975,https://www.boibazar.com/billingcart-39,204,No Content,Thread Group 1-1,,true,,80,537,5,5,https://seal.godaddy.com/getSeal?sealID=aswDU2elfOSa6U3nivsxeRKUzkqm2YnsXyW4aUrpRC0vsq13nZn2PQhLo4EH,0,0,723
+1693906029376,30,https://www.boibazar.com/billingcart-40,304,Not Modified,Thread Group 1-1,,true,,301,1175,5,5,https://www.boibazar.com/asset/images/homeAssets/cartIcon.png,0,0,0
+1693906029377,33,https://www.boibazar.com/billingcart-41,304,Not Modified,Thread Group 1-1,,true,,301,1175,5,5,https://www.boibazar.com/asset/images/homeAssets/helpInfo.png,0,0,0
+1693906029378,39,https://www.boibazar.com/billingcart-42,304,Not Modified,Thread Group 1-1,,true,,301,1170,5,5,https://www.boibazar.com/asset/js/jquery-1.10.2.min.js,0,0,0
+1693906029388,34,https://www.boibazar.com/billingcart-43,304,Not Modified,Thread Group 1-1,,true,,301,1166,5,5,https://www.boibazar.com/asset/js/jquery-ui.min.js,0,0,0
+1693906029401,50,https://www.boibazar.com/billingcart-44,304,Not Modified,Thread Group 1-1,,true,,302,1163,5,5,https://www.boibazar.com/asset/js/jquery.min.js,0,0,41
+1693906029407,22,https://www.boibazar.com/billingcart-45,304,Not Modified,Thread Group 1-1,,true,,300,1165,5,5,https://www.boibazar.com/asset/js/bootstrap.min.js,0,0,0
+1693906029410,15,https://www.boibazar.com/billingcart-46,304,Not Modified,Thread Group 1-1,,true,,300,1186,5,5,https://www.boibazar.com/asset/js/jquery.mCustomScrollbar.concat.min.js,0,0,0
+1693906029418,17,https://www.boibazar.com/billingcart-47,304,Not Modified,Thread Group 1-1,,true,,299,1169,5,5,https://www.boibazar.com/asset/new/js/mobile-sidebar.js,0,0,0
+1693906029422,15,https://www.boibazar.com/billingcart-48,304,Not Modified,Thread Group 1-1,,true,,300,1177,5,5,https://www.boibazar.com/asset/new/pslider/css/wpcs-styles.css,0,0,0
+1693906029426,17,https://www.boibazar.com/billingcart-49,304,Not Modified,Thread Group 1-1,,true,,300,1178,5,5,https://www.boibazar.com/asset/new/pslider/css/owl.carousel.css,0,0,0
+1693906029430,63,https://www.boibazar.com/billingcart-50,304,Not Modified,Thread Group 1-1,,true,,300,1182,5,5,https://www.boibazar.com/asset/new/pslider/css/owl.theme.default.css,0,0,48
+1693906029436,18,https://www.boibazar.com/billingcart-51,304,Not Modified,Thread Group 1-1,,true,,300,1167,5,5,https://www.boibazar.com/asset/AjaxAssetJs/config.js,0,0,0
+1693906029439,25,https://www.boibazar.com/billingcart-52,304,Not Modified,Thread Group 1-1,,true,,300,1166,5,5,https://www.boibazar.com/asset/js/jquery.eatoast.js,0,0,0
+1693906029443,72,https://www.boibazar.com/billingcart-53,304,Not Modified,Thread Group 1-1,,true,,301,1167,5,5,https://www.boibazar.com/asset/AjaxAssetJs/signup.js,0,0,65
+1693906029452,55,https://www.boibazar.com/billingcart-54,304,Not Modified,Thread Group 1-1,,true,,300,1167,5,5,https://www.boibazar.com/asset/AjaxAssetJs/signin.js,0,0,0
+1693906029454,19,https://www.boibazar.com/billingcart-55,304,Not Modified,Thread Group 1-1,,true,,300,1165,5,5,https://www.boibazar.com/asset/AjaxAssetJs/cart.js,0,0,0
+1693906029465,52,https://www.boibazar.com/billingcart-56,304,Not Modified,Thread Group 1-1,,true,,300,1173,5,5,https://www.boibazar.com/asset/AjaxAssetJs/commonScript.js,0,0,0
+1693906029475,64,https://www.boibazar.com/billingcart-57,304,Not Modified,Thread Group 1-1,,true,,301,1167,5,5,https://www.boibazar.com/asset/AjaxAssetJs/search.js,0,0,50
+1693906029494,31,https://www.boibazar.com/billingcart-58,304,Not Modified,Thread Group 1-1,,true,,300,1168,5,5,https://www.boibazar.com/asset/AjaxAssetJs/pageing.js,0,0,0
+1693906029511,18,https://www.boibazar.com/billingcart-59,304,Not Modified,Thread Group 1-1,,true,,299,1171,5,5,https://www.boibazar.com/asset/AjaxAssetJs/searchPagin.js,0,0,0
+1693906029517,48,https://www.boibazar.com/billingcart-60,200,OK,Thread Group 1-1,text,true,,2766,1081,5,5,https://www.boibazar.com/asset/AjaxAssetJs/billing.js,48,0,41
+1693906024048,6532,https://www.boibazar.com/similar-book/misir-ali-unsolved,500,Internal Server Error,Thread Group 1-2,text,false,,1711,1077,5,5,https://www.boibazar.com/similar-book/misir-ali-unsolved,6531,0,31
+1693906028120,2480,https://m.boibazar.com/api/stock-check/5a82e345aa4811514da8c2e4,200,OK,Thread Group 1-5,text,true,,619,644,5,5,https://m.boibazar.com/api/stock-check/5a82e345aa4811514da8c2e4,2480,0,0
+1693906030603,10,https://m.boibazar.com/api/hit-update/misir-ali-unsolved,204,No Content,Thread Group 1-5,,true,,414,495,5,5,https://m.boibazar.com/api/hit-update/misir-ali-unsolved,0,0,0
+1693906030614,196,https://m.boibazar.com/api/hit-update/misir-ali-unsolved,200,OK,Thread Group 1-5,text,true,,618,712,5,5,https://m.boibazar.com/api/hit-update/misir-ali-unsolved,196,0,0
+1693906030299,1674,https://www.boibazar.com/shipping/order,500,Internal Server Error,Thread Group 1-4,text,false,,1711,1205,5,5,https://www.boibazar.com/shipping/order,1672,0,0
+1693906031975,67,https://m.boibazar.com/api/product-type/5a82e345aa4811514da8c2e4,200,OK,Thread Group 1-4,text,true,,605,641,5,5,https://m.boibazar.com/api/product-type/5a82e345aa4811514da8c2e4,66,0,52
+1693906032045,10,https://m.boibazar.com/api/cart/64f65c7f3989087d13305762,204,No Content,Thread Group 1-4,,true,,414,499,5,5,https://m.boibazar.com/api/cart/64f65c7f3989087d13305762,0,0,0
+1693906032060,55,https://m.boibazar.com/api/cart/64f65c7f3989087d13305762,200,OK,Thread Group 1-4,text,true,,615,824,5,5,https://m.boibazar.com/api/cart/64f65c7f3989087d13305762,55,0,0
+1693905977686,54364,Test,,"Number of samples in transaction : 16, number of failing samples : 4",Thread Group 1-4,,false,,2769401,156549,5,5,null,47108,65,329
+1693906030364,2269,https://www.boibazar.com/shipping/order,500,Internal Server Error,Thread Group 1-1,text,false,,1705,1203,4,4,https://www.boibazar.com/shipping/order,2269,0,0
+1693906032634,43,https://m.boibazar.com/api/product-type/5a82e345aa4811514da8c2e4,200,OK,Thread Group 1-1,text,true,,605,639,4,4,https://m.boibazar.com/api/product-type/5a82e345aa4811514da8c2e4,43,0,25
+1693906032678,7,https://m.boibazar.com/api/cart/64f65c7f3989087d13305762,204,No Content,Thread Group 1-1,,true,,414,497,4,4,https://m.boibazar.com/api/cart/64f65c7f3989087d13305762,0,0,0
+1693906032685,55,https://m.boibazar.com/api/cart/64f65c7f3989087d13305762,200,OK,Thread Group 1-1,text,true,,615,822,4,4,https://m.boibazar.com/api/cart/64f65c7f3989087d13305762,55,0,0
+1693905971692,60821,Test,,"Number of samples in transaction : 16, number of failing samples : 4",Thread Group 1-1,,false,,2769755,156413,4,4,null,54617,228,1843
+1693906030811,2019,https://m.boibazar.com/api/cart/,200,OK,Thread Group 1-5,text,true,,3213,1861,3,3,https://m.boibazar.com/api/cart/,2019,0,0
+1693906032832,2467,https://www.boibazar.com/similar-book/misir-ali-unsolved,500,Internal Server Error,Thread Group 1-5,text,false,,1701,1069,3,3,https://www.boibazar.com/similar-book/misir-ali-unsolved,2466,0,41
+1693906035302,1949,https://www.boibazar.com/billingcart,200,"Embedded resource download error:https://www.googletagmanager.com/gtag/js?id=UA-116540278-1 code:Non HTTP response code: java.net.UnknownHostException message:Non HTTP response message: www.googletagmanager.com, https://www.googletagmanager.com/gtag/js?id=G-BMW5GE0L3F code:Non HTTP response code: java.net.UnknownHostException message:Non HTTP response message: No such host is known (www.googletagmanager.com), ",Thread Group 1-5,text,false,,175365,65929,3,3,https://www.boibazar.com/billingcart,698,0,69
+1693906035302,777,https://www.boibazar.com/billingcart-0,200,OK,Thread Group 1-5,text,true,,145869,1064,3,3,https://www.boibazar.com/billingcart,698,0,69
+1693906036132,12,https://www.boibazar.com/billingcart-1,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: www.googletagmanager.com,Thread Group 1-5,text,false,,2646,0,3,3,https://www.googletagmanager.com/gtag/js?id=UA-116540278-1,0,0,12
+1693906036132,12,https://www.boibazar.com/billingcart-2,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: No such host is known (www.googletagmanager.com),Thread Group 1-5,text,false,,2849,0,3,3,https://www.googletagmanager.com/gtag/js?id=G-BMW5GE0L3F,0,0,11
+1693906036132,8,https://www.boibazar.com/billingcart-3,304,Not Modified,Thread Group 1-5,,true,,302,1179,3,3,https://www.boibazar.com/asset/icon/android-icon-192x192.png,0,0,0
+1693906036133,57,https://www.boibazar.com/billingcart-4,304,Not Modified,Thread Group 1-5,,true,,302,1171,3,3,https://www.boibazar.com/asset/icon/favicon-32x32.png,0,0,49
+1693906036133,60,https://www.boibazar.com/billingcart-5,304,Not Modified,Thread Group 1-5,,true,,303,1172,3,3,https://www.boibazar.com/asset/icon/favicon-96x96.png,0,0,54
+1693906036134,73,https://www.boibazar.com/billingcart-6,304,Not Modified,Thread Group 1-5,,true,,302,1171,3,3,https://www.boibazar.com/asset/icon/favicon-16x16.png,0,0,65
+1693906036145,39,https://www.boibazar.com/billingcart-7,304,Not Modified,Thread Group 1-5,,true,,864,562,3,3,https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css,0,0,25
+1693906036150,52,https://www.boibazar.com/billingcart-8,304,Not Modified,Thread Group 1-5,,true,,301,1171,3,3,https://www.boibazar.com/asset/new/js/fingerprint.js,0,0,45
+1693906036156,47,https://www.boibazar.com/billingcart-9,304,Not Modified,Thread Group 1-5,,true,,302,1169,3,3,https://www.boibazar.com/asset/js/jquery-3.3.1.js,0,0,39
+1693906036185,16,https://www.boibazar.com/billingcart-10,304,Not Modified,Thread Group 1-5,,true,,888,556,3,3,https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css,0,0,0
+1693906036191,42,https://www.boibazar.com/billingcart-11,304,Not Modified,Thread Group 1-5,,true,,300,1167,3,3,https://www.boibazar.com/asset/new/css/style3.css,0,0,37
+1693906036194,39,https://www.boibazar.com/billingcart-12,304,Not Modified,Thread Group 1-5,,true,,893,627,3,3,https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.5/jquery.mCustomScrollbar.min.css,0,0,24
+1693906036201,27,https://www.boibazar.com/billingcart-13,304,Not Modified,Thread Group 1-5,,true,,835,562,3,3,https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css,0,0,0
+1693906036202,9,https://www.boibazar.com/billingcart-14,304,Not Modified,Thread Group 1-5,,true,,300,1177,3,3,https://www.boibazar.com/asset/new/css/navbar-megamenu.css,0,0,0
+1693906036204,8,https://www.boibazar.com/billingcart-15,304,Not Modified,Thread Group 1-5,,true,,300,1167,3,3,https://www.boibazar.com/asset/new/css/style.css,0,0,0
+1693906036208,58,https://www.boibazar.com/billingcart-16,304,Not Modified,Thread Group 1-5,,true,,299,1185,3,3,https://www.boibazar.com/asset/new/pslider/product-slider-custom.css,0,0,49
+1693906036211,17,https://www.boibazar.com/billingcart-17,304,Not Modified,Thread Group 1-5,,true,,299,1171,3,3,https://www.boibazar.com/asset/css/jquery.eatoast.css,0,0,0
+1693906036212,16,https://www.boibazar.com/billingcart-18,304,Not Modified,Thread Group 1-5,,true,,300,1170,3,3,https://www.boibazar.com/asset/sass/home/global.css,0,0,0
+1693906036228,42,https://www.boibazar.com/billingcart-19,304,Not Modified,Thread Group 1-5,,true,,300,1165,3,3,https://www.boibazar.com/asset/new/css/head.css,0,0,34
+1693906036228,9,https://www.boibazar.com/billingcart-20,200,OK,Thread Group 1-5,text,true,,2333,1089,3,3,https://www.boibazar.com/asset/sass/home/cart-billing.css,9,0,0
+1693906036229,12,https://www.boibazar.com/billingcart-21,304,Not Modified,Thread Group 1-5,,true,,301,1170,3,3,https://www.boibazar.com/asset/images/Home-48X48.png,0,0,0
+1693906036233,15,https://www.boibazar.com/billingcart-22,304,Not Modified,Thread Group 1-5,,true,,302,1178,3,3,https://www.boibazar.com/asset/images/Track-Order-48X48.png,0,0,0
+1693906036233,46,https://www.boibazar.com/billingcart-23,304,Not Modified,Thread Group 1-5,,true,,302,1176,3,3,https://www.boibazar.com/asset/images/Categories-48X48.png,0,0,40
+1693906036237,12,https://www.boibazar.com/billingcart-24,304,Not Modified,Thread Group 1-5,,true,,301,1173,3,3,https://www.boibazar.com/asset/images/Authors-48X48.png,0,0,0
+1693906036242,8,https://www.boibazar.com/billingcart-25,304,Not Modified,Thread Group 1-5,,true,,301,1176,3,3,https://www.boibazar.com/asset/images/Publishers-48X48.png,0,0,0
+1693906036248,12,https://www.boibazar.com/billingcart-26,304,Not Modified,Thread Group 1-5,,true,,301,1170,3,3,https://www.boibazar.com/asset/images/Blog-48X48.png,0,0,0
+1693906036250,11,https://www.boibazar.com/billingcart-27,304,Not Modified,Thread Group 1-5,,true,,301,1174,3,3,https://www.boibazar.com/asset/images/About-us-48X48.png,0,0,0
+1693906036250,12,https://www.boibazar.com/billingcart-28,304,Not Modified,Thread Group 1-5,,true,,301,1176,3,3,https://www.boibazar.com/asset/images/Contact-us-48X48.png,0,0,0
+1693906036260,8,https://www.boibazar.com/billingcart-29,304,Not Modified,Thread Group 1-5,,true,,300,1168,3,3,https://www.boibazar.com/asset/new/css/header.css,0,0,0
+1693906036261,7,https://www.boibazar.com/billingcart-30,304,Not Modified,Thread Group 1-5,,true,,302,1168,3,3,https://www.boibazar.com/asset/images/logo_bn.png,0,0,0
+1693906036262,7,https://www.boibazar.com/billingcart-31,304,Not Modified,Thread Group 1-5,,true,,302,1174,3,3,https://www.boibazar.com/asset/images/sign-in-48X48.png,0,0,0
+1693906036266,7,https://www.boibazar.com/billingcart-32,304,Not Modified,Thread Group 1-5,,true,,302,1174,3,3,https://www.boibazar.com/asset/images/search_loader.gif,0,0,0
+1693906036268,6,https://www.boibazar.com/billingcart-33,304,Not Modified,Thread Group 1-5,,true,,301,1173,3,3,https://www.boibazar.com/asset/images/search_button.png,0,0,0
+1693906036268,7,https://www.boibazar.com/billingcart-34,304,Not Modified,Thread Group 1-5,,true,,301,1171,3,3,https://www.boibazar.com/asset/images/cartIconWeb.png,0,0,0
+1693906036270,7,https://www.boibazar.com/billingcart-35,304,Not Modified,Thread Group 1-5,,true,,302,1167,3,3,https://www.boibazar.com/asset/images/loader.gif,0,0,0
+1693906036270,7,https://www.boibazar.com/billingcart-36,304,Not Modified,Thread Group 1-5,,true,,303,1177,3,3,https://www.boibazar.com/asset/images/popup_20210318c.png,0,0,0
+1693906036273,7,https://www.boibazar.com/billingcart-37,304,Not Modified,Thread Group 1-5,,true,,303,1177,3,3,https://www.boibazar.com/asset/images/popup_20210318m.png,0,0,0
+1693906036274,6,https://www.boibazar.com/billingcart-38,304,Not Modified,Thread Group 1-5,,true,,302,1173,3,3,https://www.boibazar.com/asset/images/payment-icon.jpg,0,0,0
+1693906036276,975,https://www.boibazar.com/billingcart-39,204,No Content,Thread Group 1-5,,true,,80,537,3,3,https://seal.godaddy.com/getSeal?sealID=aswDU2elfOSa6U3nivsxeRKUzkqm2YnsXyW4aUrpRC0vsq13nZn2PQhLo4EH,0,0,729
+1693906036277,6,https://www.boibazar.com/billingcart-40,304,Not Modified,Thread Group 1-5,,true,,301,1179,3,3,https://www.boibazar.com/asset/images/homeAssets/cartIcon.png,0,0,0
+1693906036277,6,https://www.boibazar.com/billingcart-41,304,Not Modified,Thread Group 1-5,,true,,301,1179,3,3,https://www.boibazar.com/asset/images/homeAssets/helpInfo.png,0,0,0
+1693906036279,13,https://www.boibazar.com/billingcart-42,304,Not Modified,Thread Group 1-5,,true,,301,1174,3,3,https://www.boibazar.com/asset/js/jquery-1.10.2.min.js,0,0,0
+1693906036281,11,https://www.boibazar.com/billingcart-43,304,Not Modified,Thread Group 1-5,,true,,301,1170,3,3,https://www.boibazar.com/asset/js/jquery-ui.min.js,0,0,0
+1693906036281,11,https://www.boibazar.com/billingcart-44,304,Not Modified,Thread Group 1-5,,true,,301,1167,3,3,https://www.boibazar.com/asset/js/jquery.min.js,0,0,0
+1693906036284,8,https://www.boibazar.com/billingcart-45,304,Not Modified,Thread Group 1-5,,true,,300,1169,3,3,https://www.boibazar.com/asset/js/bootstrap.min.js,0,0,0
+1693906036284,8,https://www.boibazar.com/billingcart-46,304,Not Modified,Thread Group 1-5,,true,,300,1190,3,3,https://www.boibazar.com/asset/js/jquery.mCustomScrollbar.concat.min.js,0,0,0
+1693906036292,5,https://www.boibazar.com/billingcart-47,304,Not Modified,Thread Group 1-5,,true,,299,1173,3,3,https://www.boibazar.com/asset/new/js/mobile-sidebar.js,0,0,0
+1693906036292,5,https://www.boibazar.com/billingcart-48,304,Not Modified,Thread Group 1-5,,true,,300,1181,3,3,https://www.boibazar.com/asset/new/pslider/css/wpcs-styles.css,0,0,0
+1693906036293,185,https://www.boibazar.com/billingcart-49,304,Not Modified,Thread Group 1-5,,true,,301,1182,3,3,https://www.boibazar.com/asset/new/pslider/css/owl.carousel.css,0,0,34
+1693906036293,185,https://www.boibazar.com/billingcart-50,304,Not Modified,Thread Group 1-5,,true,,300,1186,3,3,https://www.boibazar.com/asset/new/pslider/css/owl.theme.default.css,0,0,40
+1693906036293,185,https://www.boibazar.com/billingcart-51,304,Not Modified,Thread Group 1-5,,true,,301,1171,3,3,https://www.boibazar.com/asset/AjaxAssetJs/config.js,0,0,75
+1693906036298,9,https://www.boibazar.com/billingcart-52,304,Not Modified,Thread Group 1-5,,true,,300,1170,3,3,https://www.boibazar.com/asset/js/jquery.eatoast.js,0,0,0
+1693906036298,10,https://www.boibazar.com/billingcart-53,304,Not Modified,Thread Group 1-5,,true,,300,1171,3,3,https://www.boibazar.com/asset/AjaxAssetJs/signup.js,0,0,0
+1693906036308,14,https://www.boibazar.com/billingcart-54,304,Not Modified,Thread Group 1-5,,true,,300,1171,3,3,https://www.boibazar.com/asset/AjaxAssetJs/signin.js,0,0,0
+1693906036309,13,https://www.boibazar.com/billingcart-55,304,Not Modified,Thread Group 1-5,,true,,300,1169,3,3,https://www.boibazar.com/asset/AjaxAssetJs/cart.js,0,0,0
+1693906036322,5,https://www.boibazar.com/billingcart-56,304,Not Modified,Thread Group 1-5,,true,,300,1177,3,3,https://www.boibazar.com/asset/AjaxAssetJs/commonScript.js,0,0,0
+1693906036323,217,https://www.boibazar.com/billingcart-57,304,Not Modified,Thread Group 1-5,,true,,300,1171,3,3,https://www.boibazar.com/asset/AjaxAssetJs/search.js,0,0,0
+1693906036328,150,https://www.boibazar.com/billingcart-58,304,Not Modified,Thread Group 1-5,,true,,300,1172,3,3,https://www.boibazar.com/asset/AjaxAssetJs/pageing.js,0,0,0
+1693906036479,7,https://www.boibazar.com/billingcart-59,304,Not Modified,Thread Group 1-5,,true,,299,1175,3,3,https://www.boibazar.com/asset/AjaxAssetJs/searchPagin.js,0,0,0
+1693906036479,7,https://www.boibazar.com/billingcart-60,200,OK,Thread Group 1-5,text,true,,2765,1085,3,3,https://www.boibazar.com/asset/AjaxAssetJs/billing.js,7,0,0
+1693906025435,12761,https://m.boibazar.com/api/cart/,200,OK,Thread Group 1-3,text,true,,3213,1861,3,3,https://m.boibazar.com/api/cart/,12761,0,0
+1693906030584,8443,https://www.boibazar.com/billingcart,200,"Embedded resource download error:https://www.googletagmanager.com/gtag/js?id=UA-116540278-1 code:Non HTTP response code: java.net.UnknownHostException message:Non HTTP response message: www.googletagmanager.com, https://www.googletagmanager.com/gtag/js?id=G-BMW5GE0L3F code:Non HTTP response code: java.net.UnknownHostException message:Non HTTP response message: www.googletagmanager.com, ",Thread Group 1-2,text,false,,175000,66257,3,3,https://www.boibazar.com/billingcart,7131,0,160
+1693906030584,7227,https://www.boibazar.com/billingcart-0,200,OK,Thread Group 1-2,text,true,,145875,1074,3,3,https://www.boibazar.com/billingcart,7131,0,160
+1693906037864,2,https://www.boibazar.com/billingcart-1,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: www.googletagmanager.com,Thread Group 1-2,text,false,,2563,0,3,3,https://www.googletagmanager.com/gtag/js?id=UA-116540278-1,0,0,2
+1693906037864,4,https://www.boibazar.com/billingcart-2,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: www.googletagmanager.com,Thread Group 1-2,text,false,,2563,0,3,3,https://www.googletagmanager.com/gtag/js?id=G-BMW5GE0L3F,0,0,4
+1693906037864,8,https://www.boibazar.com/billingcart-3,304,Not Modified,Thread Group 1-2,,true,,302,1185,3,3,https://www.boibazar.com/asset/icon/android-icon-192x192.png,0,0,0
+1693906037866,64,https://www.boibazar.com/billingcart-4,304,Not Modified,Thread Group 1-2,,true,,302,1177,3,3,https://www.boibazar.com/asset/icon/favicon-32x32.png,0,0,55
+1693906037867,61,https://www.boibazar.com/billingcart-5,304,Not Modified,Thread Group 1-2,,true,,303,1178,3,3,https://www.boibazar.com/asset/icon/favicon-96x96.png,0,0,54
+1693906037867,73,https://www.boibazar.com/billingcart-6,304,Not Modified,Thread Group 1-2,,true,,302,1177,3,3,https://www.boibazar.com/asset/icon/favicon-16x16.png,0,0,59
+1693906037872,52,https://www.boibazar.com/billingcart-7,304,Not Modified,Thread Group 1-2,,true,,864,562,3,3,https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css,0,0,37
+1693906037872,69,https://www.boibazar.com/billingcart-8,304,Not Modified,Thread Group 1-2,,true,,301,1177,3,3,https://www.boibazar.com/asset/new/js/fingerprint.js,0,0,55
+1693906037873,72,https://www.boibazar.com/billingcart-9,304,Not Modified,Thread Group 1-2,,true,,302,1175,3,3,https://www.boibazar.com/asset/js/jquery-3.3.1.js,0,0,67
+1693906037925,16,https://www.boibazar.com/billingcart-10,304,Not Modified,Thread Group 1-2,,true,,888,556,3,3,https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css,0,0,0
+1693906037928,12,https://www.boibazar.com/billingcart-11,304,Not Modified,Thread Group 1-2,,true,,299,1173,3,3,https://www.boibazar.com/asset/new/css/style3.css,0,0,0
+1693906037930,39,https://www.boibazar.com/billingcart-12,304,Not Modified,Thread Group 1-2,,true,,891,627,3,3,https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.5/jquery.mCustomScrollbar.min.css,0,0,21
+1693906037941,27,https://www.boibazar.com/billingcart-13,304,Not Modified,Thread Group 1-2,,true,,835,562,3,3,https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css,0,0,0
+1693906037941,59,https://www.boibazar.com/billingcart-14,304,Not Modified,Thread Group 1-2,,true,,301,1183,3,3,https://www.boibazar.com/asset/new/css/navbar-megamenu.css,0,0,51
+1693906037943,64,https://www.boibazar.com/billingcart-15,304,Not Modified,Thread Group 1-2,,true,,301,1173,3,3,https://www.boibazar.com/asset/new/css/style.css,0,0,57
+1693906037943,61,https://www.boibazar.com/billingcart-16,304,Not Modified,Thread Group 1-2,,true,,299,1191,3,3,https://www.boibazar.com/asset/new/pslider/product-slider-custom.css,0,0,53
+1693906037946,21,https://www.boibazar.com/billingcart-17,304,Not Modified,Thread Group 1-2,,true,,299,1177,3,3,https://www.boibazar.com/asset/css/jquery.eatoast.css,0,0,0
+1693906037969,22,https://www.boibazar.com/billingcart-18,304,Not Modified,Thread Group 1-2,,true,,300,1176,3,3,https://www.boibazar.com/asset/sass/home/global.css,0,0,0
+1693906037970,21,https://www.boibazar.com/billingcart-19,304,Not Modified,Thread Group 1-2,,true,,299,1171,3,3,https://www.boibazar.com/asset/new/css/head.css,0,0,0
+1693906037970,61,https://www.boibazar.com/billingcart-20,200,OK,Thread Group 1-2,text,true,,2334,1095,3,3,https://www.boibazar.com/asset/sass/home/cart-billing.css,61,0,51
+1693906037992,9,https://www.boibazar.com/billingcart-21,304,Not Modified,Thread Group 1-2,,true,,301,1176,3,3,https://www.boibazar.com/asset/images/Home-48X48.png,0,0,0
+1693906037993,9,https://www.boibazar.com/billingcart-22,304,Not Modified,Thread Group 1-2,,true,,302,1184,3,3,https://www.boibazar.com/asset/images/Track-Order-48X48.png,0,0,0
+1693906038000,8,https://www.boibazar.com/billingcart-23,304,Not Modified,Thread Group 1-2,,true,,301,1182,3,3,https://www.boibazar.com/asset/images/Categories-48X48.png,0,0,0
+1693906038001,12,https://www.boibazar.com/billingcart-24,304,Not Modified,Thread Group 1-2,,true,,301,1179,3,3,https://www.boibazar.com/asset/images/Authors-48X48.png,0,0,0
+1693906038003,10,https://www.boibazar.com/billingcart-25,304,Not Modified,Thread Group 1-2,,true,,301,1182,3,3,https://www.boibazar.com/asset/images/Publishers-48X48.png,0,0,0
+1693906038005,8,https://www.boibazar.com/billingcart-26,304,Not Modified,Thread Group 1-2,,true,,301,1176,3,3,https://www.boibazar.com/asset/images/Blog-48X48.png,0,0,0
+1693906038007,47,https://www.boibazar.com/billingcart-27,304,Not Modified,Thread Group 1-2,,true,,302,1180,3,3,https://www.boibazar.com/asset/images/About-us-48X48.png,0,0,35
+1693906038008,12,https://www.boibazar.com/billingcart-28,304,Not Modified,Thread Group 1-2,,true,,301,1182,3,3,https://www.boibazar.com/asset/images/Contact-us-48X48.png,0,0,0
+1693906038014,48,https://www.boibazar.com/billingcart-29,304,Not Modified,Thread Group 1-2,,true,,301,1174,3,3,https://www.boibazar.com/asset/new/css/header.css,0,0,38
+1693906038014,44,https://www.boibazar.com/billingcart-30,304,Not Modified,Thread Group 1-2,,true,,303,1174,3,3,https://www.boibazar.com/asset/images/logo_bn.png,0,0,37
+1693906038014,9,https://www.boibazar.com/billingcart-31,304,Not Modified,Thread Group 1-2,,true,,302,1180,3,3,https://www.boibazar.com/asset/images/sign-in-48X48.png,0,0,0
+1693906038021,10,https://www.boibazar.com/billingcart-32,304,Not Modified,Thread Group 1-2,,true,,302,1180,3,3,https://www.boibazar.com/asset/images/search_loader.gif,0,0,0
+1693906038023,9,https://www.boibazar.com/billingcart-33,304,Not Modified,Thread Group 1-2,,true,,301,1179,3,3,https://www.boibazar.com/asset/images/search_button.png,0,0,0
+1693906038032,7,https://www.boibazar.com/billingcart-34,304,Not Modified,Thread Group 1-2,,true,,301,1177,3,3,https://www.boibazar.com/asset/images/cartIconWeb.png,0,0,0
+1693906038032,9,https://www.boibazar.com/billingcart-35,304,Not Modified,Thread Group 1-2,,true,,302,1173,3,3,https://www.boibazar.com/asset/images/loader.gif,0,0,0
+1693906038032,13,https://www.boibazar.com/billingcart-36,304,Not Modified,Thread Group 1-2,,true,,303,1183,3,3,https://www.boibazar.com/asset/images/popup_20210318c.png,0,0,0
+1693906038040,8,https://www.boibazar.com/billingcart-37,304,Not Modified,Thread Group 1-2,,true,,303,1183,3,3,https://www.boibazar.com/asset/images/popup_20210318m.png,0,0,0
+1693906038041,8,https://www.boibazar.com/billingcart-38,304,Not Modified,Thread Group 1-2,,true,,302,1179,3,3,https://www.boibazar.com/asset/images/payment-icon.jpg,0,0,0
+1693906038046,981,https://www.boibazar.com/billingcart-39,204,No Content,Thread Group 1-2,,true,,80,537,3,3,https://seal.godaddy.com/getSeal?sealID=aswDU2elfOSa6U3nivsxeRKUzkqm2YnsXyW4aUrpRC0vsq13nZn2PQhLo4EH,0,0,735
+1693906038049,7,https://www.boibazar.com/billingcart-40,304,Not Modified,Thread Group 1-2,,true,,301,1185,3,3,https://www.boibazar.com/asset/images/homeAssets/cartIcon.png,0,0,0
+1693906038050,6,https://www.boibazar.com/billingcart-41,304,Not Modified,Thread Group 1-2,,true,,301,1185,3,3,https://www.boibazar.com/asset/images/homeAssets/helpInfo.png,0,0,0
+1693906038054,8,https://www.boibazar.com/billingcart-42,304,Not Modified,Thread Group 1-2,,true,,301,1180,3,3,https://www.boibazar.com/asset/js/jquery-1.10.2.min.js,0,0,0
+1693906038056,6,https://www.boibazar.com/billingcart-43,304,Not Modified,Thread Group 1-2,,true,,301,1176,3,3,https://www.boibazar.com/asset/js/jquery-ui.min.js,0,0,0
+1693906038057,6,https://www.boibazar.com/billingcart-44,304,Not Modified,Thread Group 1-2,,true,,301,1173,3,3,https://www.boibazar.com/asset/js/jquery.min.js,0,0,0
+1693906038058,9,https://www.boibazar.com/billingcart-45,304,Not Modified,Thread Group 1-2,,true,,300,1175,3,3,https://www.boibazar.com/asset/js/bootstrap.min.js,0,0,0
+1693906038062,5,https://www.boibazar.com/billingcart-46,304,Not Modified,Thread Group 1-2,,true,,300,1196,3,3,https://www.boibazar.com/asset/js/jquery.mCustomScrollbar.concat.min.js,0,0,0
+1693906038062,6,https://www.boibazar.com/billingcart-47,304,Not Modified,Thread Group 1-2,,true,,299,1179,3,3,https://www.boibazar.com/asset/new/js/mobile-sidebar.js,0,0,0
+1693906038062,8,https://www.boibazar.com/billingcart-48,304,Not Modified,Thread Group 1-2,,true,,300,1187,3,3,https://www.boibazar.com/asset/new/pslider/css/wpcs-styles.css,0,0,0
+1693906038063,7,https://www.boibazar.com/billingcart-49,304,Not Modified,Thread Group 1-2,,true,,300,1188,3,3,https://www.boibazar.com/asset/new/pslider/css/owl.carousel.css,0,0,0
+1693906038068,4,https://www.boibazar.com/billingcart-50,304,Not Modified,Thread Group 1-2,,true,,299,1192,3,3,https://www.boibazar.com/asset/new/pslider/css/owl.theme.default.css,0,0,0
+1693906038068,6,https://www.boibazar.com/billingcart-51,304,Not Modified,Thread Group 1-2,,true,,300,1177,3,3,https://www.boibazar.com/asset/AjaxAssetJs/config.js,0,0,0
+1693906038069,7,https://www.boibazar.com/billingcart-52,304,Not Modified,Thread Group 1-2,,true,,300,1176,3,3,https://www.boibazar.com/asset/js/jquery.eatoast.js,0,0,0
+1693906038070,6,https://www.boibazar.com/billingcart-53,304,Not Modified,Thread Group 1-2,,true,,300,1177,3,3,https://www.boibazar.com/asset/AjaxAssetJs/signup.js,0,0,0
+1693906038070,6,https://www.boibazar.com/billingcart-54,304,Not Modified,Thread Group 1-2,,true,,300,1177,3,3,https://www.boibazar.com/asset/AjaxAssetJs/signin.js,0,0,0
+1693906038073,5,https://www.boibazar.com/billingcart-55,304,Not Modified,Thread Group 1-2,,true,,300,1175,3,3,https://www.boibazar.com/asset/AjaxAssetJs/cart.js,0,0,0
+1693906038074,6,https://www.boibazar.com/billingcart-56,304,Not Modified,Thread Group 1-2,,true,,300,1183,3,3,https://www.boibazar.com/asset/AjaxAssetJs/commonScript.js,0,0,0
+1693906038076,4,https://www.boibazar.com/billingcart-57,304,Not Modified,Thread Group 1-2,,true,,300,1177,3,3,https://www.boibazar.com/asset/AjaxAssetJs/search.js,0,0,0
+1693906038076,6,https://www.boibazar.com/billingcart-58,304,Not Modified,Thread Group 1-2,,true,,300,1178,3,3,https://www.boibazar.com/asset/AjaxAssetJs/pageing.js,0,0,0
+1693906038076,8,https://www.boibazar.com/billingcart-59,304,Not Modified,Thread Group 1-2,,true,,299,1181,3,3,https://www.boibazar.com/asset/AjaxAssetJs/searchPagin.js,0,0,0
+1693906038078,7,https://www.boibazar.com/billingcart-60,200,OK,Thread Group 1-2,text,true,,2765,1091,3,3,https://www.boibazar.com/asset/AjaxAssetJs/billing.js,7,0,0
+1693906037258,2039,https://www.boibazar.com/shipping/order,500,Internal Server Error,Thread Group 1-5,text,false,,1711,1207,3,3,https://www.boibazar.com/shipping/order,2038,0,0
+1693906039299,74,https://m.boibazar.com/api/product-type/5a82e345aa4811514da8c2e4,200,OK,Thread Group 1-5,text,true,,605,637,3,3,https://m.boibazar.com/api/product-type/5a82e345aa4811514da8c2e4,74,0,60
+1693906039373,12,https://m.boibazar.com/api/cart/64f65c7f3989087d13305762,204,No Content,Thread Group 1-5,,true,,414,495,3,3,https://m.boibazar.com/api/cart/64f65c7f3989087d13305762,0,0,0
+1693906039386,58,https://m.boibazar.com/api/cart/64f65c7f3989087d13305762,200,OK,Thread Group 1-5,text,true,,615,820,3,3,https://m.boibazar.com/api/cart/64f65c7f3989087d13305762,58,0,0
+1693905979670,59698,Test,,"Number of samples in transaction : 16, number of failing samples : 4",Thread Group 1-5,,false,,2770116,156195,3,3,null,55660,76,305
+1693906039033,641,https://www.boibazar.com/shipping/order,500,Internal Server Error,Thread Group 1-2,text,false,,1711,1213,2,2,https://www.boibazar.com/shipping/order,639,0,0
+1693906038198,1491,https://www.boibazar.com/similar-book/misir-ali-unsolved,500,Internal Server Error,Thread Group 1-3,text,false,,1709,1077,2,2,https://www.boibazar.com/similar-book/misir-ali-unsolved,1489,0,36
+1693906039678,74,https://m.boibazar.com/api/product-type/5a82e345aa4811514da8c2e4,200,OK,Thread Group 1-2,text,true,,605,641,2,2,https://m.boibazar.com/api/product-type/5a82e345aa4811514da8c2e4,74,0,62
+1693906039754,8,https://m.boibazar.com/api/cart/64f65c7f3989087d13305762,204,No Content,Thread Group 1-2,,true,,414,499,2,2,https://m.boibazar.com/api/cart/64f65c7f3989087d13305762,0,0,0
+1693906039764,60,https://m.boibazar.com/api/cart/64f65c7f3989087d13305762,200,OK,Thread Group 1-2,text,true,,615,824,2,2,https://m.boibazar.com/api/cart/64f65c7f3989087d13305762,59,0,0
+1693905973685,66037,Test,,"Number of samples in transaction : 16, number of failing samples : 4",Thread Group 1-2,,false,,2769398,157077,2,2,null,61811,103,392
+1693906039692,2292,https://www.boibazar.com/billingcart,200,"Embedded resource download error:https://www.googletagmanager.com/gtag/js?id=UA-116540278-1 code:Non HTTP response code: java.net.UnknownHostException message:Non HTTP response message: www.googletagmanager.com, https://www.googletagmanager.com/gtag/js?id=G-BMW5GE0L3F code:Non HTTP response code: java.net.UnknownHostException message:Non HTTP response message: www.googletagmanager.com, ",Thread Group 1-3,text,false,,174989,65831,1,1,https://www.boibazar.com/billingcart,922,0,66
+1693906039692,1010,https://www.boibazar.com/billingcart-0,200,OK,Thread Group 1-3,text,true,,145867,1072,1,1,https://www.boibazar.com/billingcart,922,0,66
+1693906040754,7,https://www.boibazar.com/billingcart-1,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: www.googletagmanager.com,Thread Group 1-3,text,false,,2563,0,1,1,https://www.googletagmanager.com/gtag/js?id=UA-116540278-1,0,0,5
+1693906040754,1,https://www.boibazar.com/billingcart-2,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: www.googletagmanager.com,Thread Group 1-3,text,false,,2563,0,1,1,https://www.googletagmanager.com/gtag/js?id=G-BMW5GE0L3F,0,0,1
+1693906040755,17,https://www.boibazar.com/billingcart-3,304,Not Modified,Thread Group 1-3,,true,,302,1177,1,1,https://www.boibazar.com/asset/icon/android-icon-192x192.png,0,0,0
+1693906040756,105,https://www.boibazar.com/billingcart-4,304,Not Modified,Thread Group 1-3,,true,,302,1169,1,1,https://www.boibazar.com/asset/icon/favicon-32x32.png,0,0,82
+1693906040756,83,https://www.boibazar.com/billingcart-5,304,Not Modified,Thread Group 1-3,,true,,303,1170,1,1,https://www.boibazar.com/asset/icon/favicon-96x96.png,0,0,75
+1693906040756,105,https://www.boibazar.com/billingcart-6,304,Not Modified,Thread Group 1-3,,true,,302,1169,1,1,https://www.boibazar.com/asset/icon/favicon-16x16.png,0,0,82
+1693906040757,81,https://www.boibazar.com/billingcart-7,304,Not Modified,Thread Group 1-3,,true,,864,562,1,1,https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css,0,0,48
+1693906040775,86,https://www.boibazar.com/billingcart-8,304,Not Modified,Thread Group 1-3,,true,,301,1169,1,1,https://www.boibazar.com/asset/new/js/fingerprint.js,0,0,64
+1693906040776,85,https://www.boibazar.com/billingcart-9,304,Not Modified,Thread Group 1-3,,true,,302,1167,1,1,https://www.boibazar.com/asset/js/jquery-3.3.1.js,0,0,69
+1693906040838,23,https://www.boibazar.com/billingcart-10,304,Not Modified,Thread Group 1-3,,true,,888,556,1,1,https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css,0,0,0
+1693906040840,21,https://www.boibazar.com/billingcart-11,304,Not Modified,Thread Group 1-3,,true,,299,1165,1,1,https://www.boibazar.com/asset/new/css/style3.css,0,0,0
+1693906040861,128,https://www.boibazar.com/billingcart-12,304,Not Modified,Thread Group 1-3,,true,,891,627,1,1,https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.5/jquery.mCustomScrollbar.min.css,0,0,107
+1693906040861,113,https://www.boibazar.com/billingcart-13,304,Not Modified,Thread Group 1-3,,true,,835,562,1,1,https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css,0,0,95
+1693906040862,6,https://www.boibazar.com/billingcart-14,304,Not Modified,Thread Group 1-3,,true,,300,1175,1,1,https://www.boibazar.com/asset/new/css/navbar-megamenu.css,0,0,0
+1693906040862,142,https://www.boibazar.com/billingcart-15,304,Not Modified,Thread Group 1-3,,true,,301,1165,1,1,https://www.boibazar.com/asset/new/css/style.css,0,0,134
+1693906040862,133,https://www.boibazar.com/billingcart-16,304,Not Modified,Thread Group 1-3,,true,,299,1183,1,1,https://www.boibazar.com/asset/new/pslider/product-slider-custom.css,0,0,122
+1693906040862,140,https://www.boibazar.com/billingcart-17,304,Not Modified,Thread Group 1-3,,true,,300,1169,1,1,https://www.boibazar.com/asset/css/jquery.eatoast.css,0,0,132
+1693906040868,5,https://www.boibazar.com/billingcart-18,304,Not Modified,Thread Group 1-3,,true,,300,1168,1,1,https://www.boibazar.com/asset/sass/home/global.css,0,0,0
+1693906040873,5,https://www.boibazar.com/billingcart-19,304,Not Modified,Thread Group 1-3,,true,,299,1163,1,1,https://www.boibazar.com/asset/new/css/head.css,0,0,0
+1693906040878,7,https://www.boibazar.com/billingcart-20,200,OK,Thread Group 1-3,text,true,,2333,1087,1,1,https://www.boibazar.com/asset/sass/home/cart-billing.css,7,0,0
+1693906040886,5,https://www.boibazar.com/billingcart-21,304,Not Modified,Thread Group 1-3,,true,,301,1168,1,1,https://www.boibazar.com/asset/images/Home-48X48.png,0,0,0
+1693906040891,5,https://www.boibazar.com/billingcart-22,304,Not Modified,Thread Group 1-3,,true,,302,1176,1,1,https://www.boibazar.com/asset/images/Track-Order-48X48.png,0,0,0
+1693906040897,4,https://www.boibazar.com/billingcart-23,304,Not Modified,Thread Group 1-3,,true,,301,1174,1,1,https://www.boibazar.com/asset/images/Categories-48X48.png,0,0,0
+1693906040902,4,https://www.boibazar.com/billingcart-24,304,Not Modified,Thread Group 1-3,,true,,301,1171,1,1,https://www.boibazar.com/asset/images/Authors-48X48.png,0,0,0
+1693906040907,5,https://www.boibazar.com/billingcart-25,304,Not Modified,Thread Group 1-3,,true,,301,1174,1,1,https://www.boibazar.com/asset/images/Publishers-48X48.png,0,0,0
+1693906040913,6,https://www.boibazar.com/billingcart-26,304,Not Modified,Thread Group 1-3,,true,,301,1168,1,1,https://www.boibazar.com/asset/images/Blog-48X48.png,0,0,0
+1693906040920,4,https://www.boibazar.com/billingcart-27,304,Not Modified,Thread Group 1-3,,true,,301,1172,1,1,https://www.boibazar.com/asset/images/About-us-48X48.png,0,0,0
+1693906040925,6,https://www.boibazar.com/billingcart-28,304,Not Modified,Thread Group 1-3,,true,,301,1174,1,1,https://www.boibazar.com/asset/images/Contact-us-48X48.png,0,0,0
+1693906040932,12,https://www.boibazar.com/billingcart-29,304,Not Modified,Thread Group 1-3,,true,,300,1166,1,1,https://www.boibazar.com/asset/new/css/header.css,0,0,0
+1693906040945,24,https://www.boibazar.com/billingcart-30,304,Not Modified,Thread Group 1-3,,true,,302,1166,1,1,https://www.boibazar.com/asset/images/logo_bn.png,0,0,0
+1693906040971,14,https://www.boibazar.com/billingcart-31,304,Not Modified,Thread Group 1-3,,true,,302,1172,1,1,https://www.boibazar.com/asset/images/sign-in-48X48.png,0,0,0
+1693906040978,10,https://www.boibazar.com/billingcart-32,304,Not Modified,Thread Group 1-3,,true,,302,1172,1,1,https://www.boibazar.com/asset/images/search_loader.gif,0,0,0
+1693906040986,7,https://www.boibazar.com/billingcart-33,304,Not Modified,Thread Group 1-3,,true,,301,1171,1,1,https://www.boibazar.com/asset/images/search_button.png,0,0,0
+1693906040989,10,https://www.boibazar.com/billingcart-34,304,Not Modified,Thread Group 1-3,,true,,301,1169,1,1,https://www.boibazar.com/asset/images/cartIconWeb.png,0,0,0
+1693906040990,9,https://www.boibazar.com/billingcart-35,304,Not Modified,Thread Group 1-3,,true,,302,1165,1,1,https://www.boibazar.com/asset/images/loader.gif,0,0,0
+1693906040994,6,https://www.boibazar.com/billingcart-36,304,Not Modified,Thread Group 1-3,,true,,303,1175,1,1,https://www.boibazar.com/asset/images/popup_20210318c.png,0,0,0
+1693906040996,8,https://www.boibazar.com/billingcart-37,304,Not Modified,Thread Group 1-3,,true,,303,1175,1,1,https://www.boibazar.com/asset/images/popup_20210318m.png,0,0,0
+1693906040999,7,https://www.boibazar.com/billingcart-38,304,Not Modified,Thread Group 1-3,,true,,302,1171,1,1,https://www.boibazar.com/asset/images/payment-icon.jpg,0,0,0
+1693906040999,985,https://www.boibazar.com/billingcart-39,204,No Content,Thread Group 1-3,,true,,80,537,1,1,https://seal.godaddy.com/getSeal?sealID=aswDU2elfOSa6U3nivsxeRKUzkqm2YnsXyW4aUrpRC0vsq13nZn2PQhLo4EH,0,0,737
+1693906041000,8,https://www.boibazar.com/billingcart-40,304,Not Modified,Thread Group 1-3,,true,,301,1177,1,1,https://www.boibazar.com/asset/images/homeAssets/cartIcon.png,0,0,0
+1693906041002,6,https://www.boibazar.com/billingcart-41,304,Not Modified,Thread Group 1-3,,true,,301,1177,1,1,https://www.boibazar.com/asset/images/homeAssets/helpInfo.png,0,0,0
+1693906041005,6,https://www.boibazar.com/billingcart-42,304,Not Modified,Thread Group 1-3,,true,,301,1172,1,1,https://www.boibazar.com/asset/js/jquery-1.10.2.min.js,0,0,0
+1693906041005,8,https://www.boibazar.com/billingcart-43,304,Not Modified,Thread Group 1-3,,true,,301,1168,1,1,https://www.boibazar.com/asset/js/jquery-ui.min.js,0,0,0
+1693906041007,9,https://www.boibazar.com/billingcart-44,304,Not Modified,Thread Group 1-3,,true,,301,1165,1,1,https://www.boibazar.com/asset/js/jquery.min.js,0,0,0
+1693906041008,8,https://www.boibazar.com/billingcart-45,304,Not Modified,Thread Group 1-3,,true,,300,1167,1,1,https://www.boibazar.com/asset/js/bootstrap.min.js,0,0,0
+1693906041009,7,https://www.boibazar.com/billingcart-46,304,Not Modified,Thread Group 1-3,,true,,300,1188,1,1,https://www.boibazar.com/asset/js/jquery.mCustomScrollbar.concat.min.js,0,0,0
+1693906041011,9,https://www.boibazar.com/billingcart-47,304,Not Modified,Thread Group 1-3,,true,,299,1171,1,1,https://www.boibazar.com/asset/new/js/mobile-sidebar.js,0,0,0
+1693906041014,10,https://www.boibazar.com/billingcart-48,304,Not Modified,Thread Group 1-3,,true,,300,1179,1,1,https://www.boibazar.com/asset/new/pslider/css/wpcs-styles.css,0,0,0
+1693906041016,7,https://www.boibazar.com/billingcart-49,304,Not Modified,Thread Group 1-3,,true,,300,1180,1,1,https://www.boibazar.com/asset/new/pslider/css/owl.carousel.css,0,0,0
+1693906041018,9,https://www.boibazar.com/billingcart-50,304,Not Modified,Thread Group 1-3,,true,,299,1184,1,1,https://www.boibazar.com/asset/new/pslider/css/owl.theme.default.css,0,0,0
+1693906041017,7,https://www.boibazar.com/billingcart-51,304,Not Modified,Thread Group 1-3,,true,,300,1169,1,1,https://www.boibazar.com/asset/AjaxAssetJs/config.js,0,0,0
+1693906041021,13,https://www.boibazar.com/billingcart-52,304,Not Modified,Thread Group 1-3,,true,,300,1168,1,1,https://www.boibazar.com/asset/js/jquery.eatoast.js,0,0,0
+1693906041024,10,https://www.boibazar.com/billingcart-53,304,Not Modified,Thread Group 1-3,,true,,300,1169,1,1,https://www.boibazar.com/asset/AjaxAssetJs/signup.js,0,0,0
+1693906041025,9,https://www.boibazar.com/billingcart-54,304,Not Modified,Thread Group 1-3,,true,,300,1169,1,1,https://www.boibazar.com/asset/AjaxAssetJs/signin.js,0,0,0
+1693906041025,46,https://www.boibazar.com/billingcart-55,304,Not Modified,Thread Group 1-3,,true,,301,1167,1,1,https://www.boibazar.com/asset/AjaxAssetJs/cart.js,0,0,41
+1693906041027,15,https://www.boibazar.com/billingcart-56,304,Not Modified,Thread Group 1-3,,true,,300,1175,1,1,https://www.boibazar.com/asset/AjaxAssetJs/commonScript.js,0,0,0
+1693906041035,13,https://www.boibazar.com/billingcart-57,304,Not Modified,Thread Group 1-3,,true,,300,1169,1,1,https://www.boibazar.com/asset/AjaxAssetJs/search.js,0,0,0
+1693906041036,12,https://www.boibazar.com/billingcart-58,304,Not Modified,Thread Group 1-3,,true,,300,1170,1,1,https://www.boibazar.com/asset/AjaxAssetJs/pageing.js,0,0,0
+1693906041036,14,https://www.boibazar.com/billingcart-59,304,Not Modified,Thread Group 1-3,,true,,299,1173,1,1,https://www.boibazar.com/asset/AjaxAssetJs/searchPagin.js,0,0,0
+1693906041042,10,https://www.boibazar.com/billingcart-60,200,OK,Thread Group 1-3,text,true,,2765,1083,1,1,https://www.boibazar.com/asset/AjaxAssetJs/billing.js,10,0,0
+1693906041991,2391,https://www.boibazar.com/shipping/order,500,Internal Server Error,Thread Group 1-3,text,false,,1703,1205,1,1,https://www.boibazar.com/shipping/order,2390,0,0
+1693906044384,39,https://m.boibazar.com/api/product-type/5a82e345aa4811514da8c2e4,200,OK,Thread Group 1-3,text,true,,605,637,1,1,https://m.boibazar.com/api/product-type/5a82e345aa4811514da8c2e4,38,0,28
+1693906044424,6,https://m.boibazar.com/api/cart/64f65c7f3989087d13305762,204,No Content,Thread Group 1-3,,true,,414,495,1,1,https://m.boibazar.com/api/cart/64f65c7f3989087d13305762,0,0,0
+1693906044430,53,https://m.boibazar.com/api/cart/64f65c7f3989087d13305762,200,OK,Thread Group 1-3,text,true,,615,820,1,1,https://m.boibazar.com/api/cart/64f65c7f3989087d13305762,53,0,0
+1693905975679,68763,Test,,"Number of samples in transaction : 16, number of failing samples : 4",Thread Group 1-3,,false,,2769761,156643,1,1,null,63427,43,379
