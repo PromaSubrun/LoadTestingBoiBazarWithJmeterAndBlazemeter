@@ -1,6 +1,7 @@
 # BoiBazarLoadTesting
 This repository contains scripts and configurations for conducting load testing on BoiBazar, a fictional online bookstore, using JMeter and BlazeMeter. It offers a straightforward way to simulate and analyze the performance of the BoiBazar website under various user load scenarios.
 
+
 Features:
 
 1. Perform load testing on BoiBazar for scalability assessment.
@@ -8,12 +9,14 @@ Features:
 3. Integration with BlazeMeter for cloud-based load testing.
 4. Monitor and analyze the performance of BoiBazar.
 
+
 Getting Started:
 
 1. Clone this repository: git clone https://github.com/PromaSubrun/LoadTestingBoiBazarWithJmeterAndBlazemeter.git
 2. Set up JMeter and BlazeMeter as per the provided documentation.
 3. Run load tests using the provided JMeter scripts.
 4. Analyze test results for performance insights.
+
 
 Project Structure:
 
@@ -27,11 +30,12 @@ Project Structure:
 
 5. BoiBazar.jmx: A JMX file, which is a JMeter test plan. It likely defines the test scenarios and configurations for testing BoiBazar.
 
-5. README.md: The project's README file. This is typically used to provide information and instructions on how to use the project or its files.
+5. README.md: The project's README file. This is typically used to provide information and instructions on how to use the project or it's files.
 
 6. View Results Tree.jmx: Another JMX file, possibly related to JMeter, which may be defining a test plan for visualizing or inspecting results during testing.
+
 
 Contributions:
 
 Contributions and feedback are appreciated! If you have suggestions, improvements, or bug fixes, please feel free to open issues or submit pull requests.
- Happy Automating! 🚀
+ Happy Load-Testing! 🚀
